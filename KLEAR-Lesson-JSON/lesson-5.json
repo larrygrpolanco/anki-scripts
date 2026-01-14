@@ -1,0 +1,266 @@
+{
+  "chapter_info": {
+    "number": 5,
+    "title_kr": "서점에서",
+    "title_en": "At the Bookstore",
+    "tags": ["Shopping", "Daily Activities", "Time Expressions"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "오래간만이에요",
+      "word_en": "it's been a long time",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "어, 제니 씨, <b>오래간만이에요</b>.",
+      "sentence_en": "Oh, hi, Jenny. It's been a long time.",
+      "audio_query": "어, 제니 씨, 오래간만이에요."
+    },
+    {
+      "word_kr": "어디 가세요",
+      "word_en": "where are you going",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "그런데 <b>어디 가세요</b>?",
+      "sentence_en": "By the way, where are you going?",
+      "audio_query": "그런데 어디 가세요?"
+    },
+    {
+      "word_kr": "커피숍",
+      "word_en": "coffee shop",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>커피숍</b>에 가요.",
+      "sentence_en": "I'm going to the coffee shop.",
+      "audio_query": "커피숍에 가요."
+    },
+    {
+      "word_kr": "서점",
+      "word_en": "bookstore",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "저는 <b>서점</b>에 가요.",
+      "sentence_en": "I'm going to the bookstore.",
+      "audio_query": "저는 서점에 가요."
+    },
+    {
+      "word_kr": "일 해요",
+      "word_en": "to work",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "친구가 학교 앞 서점에서 <b>일 해요</b>.",
+      "sentence_en": "My friend works at the bookstore across campus.",
+      "audio_query": "친구가 학교 앞 서점에서 일 해요."
+    },
+    {
+      "word_kr": "다음에 또 봐요",
+      "word_en": "see you next time",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "그럼, <b>다음에 또 봐요</b>.",
+      "sentence_en": "Okay, I'll see you next time.",
+      "audio_query": "그럼, 다음에 또 봐요."
+    },
+    {
+      "word_kr": "안녕히 가세요",
+      "word_en": "go in peace (goodbye)",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "네, <b>안녕히 가세요</b>.",
+      "sentence_en": "Okay, goodbye.",
+      "audio_query": "네, 안녕히 가세요."
+    },
+    {
+      "word_kr": "백화점",
+      "word_en": "department store",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "오후에 저하고 같이 <b>백화점</b>에 가요.",
+      "sentence_en": "Let's go to the department store together in the afternoon.",
+      "audio_query": "오후에 저하고 같이 백화점에 가요."
+    },
+    {
+      "word_kr": "선물",
+      "word_en": "gift",
+      "nuance": "Polite",
+      "category": "Objects",
+      "sentence_kr_html": "생일 <b>선물</b>을 사러 가요.",
+      "sentence_en": "I'm going to buy a birthday gift.",
+      "audio_query": "생일 선물을 사러 가요."
+    },
+    {
+      "word_kr": "사요",
+      "word_en": "to buy",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "생일 선물을 <b>사요</b>.",
+      "sentence_en": "I'm buying a birthday gift.",
+      "audio_query": "생일 선물을 사요."
+    },
+    {
+      "word_kr": "얼마예요",
+      "word_en": "how much is it",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "이 책은 <b>얼마예요</b>?",
+      "sentence_en": "How much is this book?",
+      "audio_query": "이 책은 얼마예요?"
+    },
+    {
+      "word_kr": "몇 시에",
+      "word_en": "at what time",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "수업이 <b>몇 시에</b> 있어요?",
+      "sentence_en": "What time is your class?",
+      "audio_query": "수업이 몇 시에 있어요?"
+    },
+    {
+      "word_kr": "오전",
+      "word_en": "morning/a.m.",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>오전</b> 10시에 있어요.",
+      "sentence_en": "At 10 o'clock in the morning.",
+      "audio_query": "오전 10시에 있어요."
+    },
+    {
+      "word_kr": "오후",
+      "word_en": "afternoon/p.m.",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>오후</b>에 저하고 같이 백화점에 가요.",
+      "sentence_en": "Let's go to the department store together in the afternoon.",
+      "audio_query": "오후에 저하고 같이 백화점에 가요."
+    },
+    {
+      "word_kr": "같이",
+      "word_en": "together",
+      "nuance": "Polite",
+      "category": "Adverbs",
+      "sentence_kr_html": "오후에 저하고 <b>같이</b> 백화점에 가요.",
+      "sentence_en": "Let's go to the department store together in the afternoon.",
+      "audio_query": "오후에 저하고 같이 백화점에 가요."
+    },
+    {
+      "word_kr": "괜찮아요",
+      "word_en": "it's okay",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "3시 30분 <b>괜찮아요</b>?",
+      "sentence_en": "Is 3:30 okay?",
+      "audio_query": "3시 30분 괜찮아요?"
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Location Particle 에 (Static)",
+      "sentence_cloze": "집{{c1::에}} 계세요.",
+      "sentence_en": "He is at home.",
+      "usage_note": "에 indicates static location or existence. Used with 있다."
+    },
+    {
+      "grammar_point": "Location Particle 에 (Destination)",
+      "sentence_cloze": "학교{{c1::에}} 가요.",
+      "sentence_en": "I go to school.",
+      "usage_note": "에 indicates destination or goal. Used with movement verbs."
+    },
+    {
+      "grammar_point": "Location Particle 에서 (Dynamic)",
+      "sentence_cloze": "공원{{c1::에서}} 운동해요.",
+      "sentence_en": "I exercise at the park.",
+      "usage_note": "에서 indicates location of activity. Used with action verbs."
+    },
+    {
+      "grammar_point": "SOV Word Order",
+      "sentence_cloze": "유미{{c1::가}} 교실에서 한국어{{c1::를}} 공부해요.",
+      "sentence_en": "Yumi studies Korean in the classroom.",
+      "usage_note": "Subject-Object-Verb order. Verb always comes last."
+    },
+    {
+      "grammar_point": "Purpose Particle (으)러",
+      "sentence_cloze": "점심 먹{{c1::으러}} 식당에 가요.",
+      "sentence_en": "I go to the cafeteria to eat lunch.",
+      "usage_note": "으러 after consonants, 러 after vowels. Indicates purpose of movement."
+    },
+    {
+      "grammar_point": "Purpose Particle (으)러",
+      "sentence_cloze": "테니스 치{{c1::러}} 가요.",
+      "sentence_en": "I go to play tennis.",
+      "usage_note": "으러 after consonants, 러 after vowels. Indicates purpose of movement."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "리사 씨, 안녕하세요?",
+      "sentence_en": "Hi, Lisa!"
+    },
+    {
+      "sentence_kr": "어, 제니 씨, 오래간만이에요.",
+      "sentence_en": "Oh, hi, Jenny. It's been a long time."
+    },
+    {
+      "sentence_kr": "네, 오래간만이에요.",
+      "sentence_en": "Yes, it's been a long time."
+    },
+    {
+      "sentence_kr": "그런데 어디 가세요?",
+      "sentence_en": "By the way, where are you going?"
+    },
+    {
+      "sentence_kr": "커피숍에 가요.",
+      "sentence_en": "I'm going to the coffee shop."
+    },
+    {
+      "sentence_kr": "제니 씨는 어디 가세요?",
+      "sentence_en": "Where are you going, Jenny?"
+    },
+    {
+      "sentence_kr": "저는 서점에 가요.",
+      "sentence_en": "I'm going to the bookstore."
+    },
+    {
+      "sentence_kr": "친구가 학교 앞 서점에서 일을 해요.",
+      "sentence_en": "My friend works at the bookstore across campus."
+    },
+    {
+      "sentence_kr": "아, 그래요?",
+      "sentence_en": "Oh, really?"
+    },
+    {
+      "sentence_kr": "그럼, 다음에 또 봐요.",
+      "sentence_en": "Okay, I'll see you next time."
+    },
+    {
+      "sentence_kr": "네, 안녕히 가세요.",
+      "sentence_en": "Okay, goodbye."
+    },
+    {
+      "sentence_kr": "생일 선물을 사러 가요.",
+      "sentence_en": "I'm going to buy a birthday gift."
+    },
+    {
+      "sentence_kr": "수업이 몇 시에 있어요?",
+      "sentence_en": "What time is your class?"
+    },
+    {
+      "sentence_kr": "오전 10시에 있어요.",
+      "sentence_en": "At 10 o'clock in the morning."
+    },
+    {
+      "sentence_kr": "그럼, 오후에 저하고 같이 백화점에 가요.",
+      "sentence_en": "Then let's go to the department store together in the afternoon."
+    },
+    {
+      "sentence_kr": "네, 좋아요.",
+      "sentence_en": "Okay, sounds good."
+    },
+    {
+      "sentence_kr": "3시 30분 괜찮아요?",
+      "sentence_en": "Is 3:30 okay?"
+    },
+    {
+      "sentence_kr": "네, 괜찮아요.",
+      "sentence_en": "Yes, it's okay."
+    }
+  ]
+}

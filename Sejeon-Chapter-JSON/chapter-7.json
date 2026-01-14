@@ -1,0 +1,213 @@
+{
+  "chapter_info": {
+    "number": 7,
+    "title_kr": "지금 어디에 있어요?",
+    "title_en": "Where are you now?",
+    "tags": ["Locations", "Positions"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "어디",
+      "word_en": "where",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "쯔엉 씨는 <b>어디</b>에 살아요?",
+      "sentence_en": "Where does Truong live?",
+      "audio_query": "쯔엉 씨는 어디에 살아요?"
+    },
+    {
+      "word_kr": "기숙사",
+      "word_en": "dormitory",
+      "nuance": "Formal",
+      "category": "Places",
+      "sentence_kr_html": "<b>기숙사</b>가 어디입니까?",
+      "sentence_en": "Where is the dormitory?",
+      "audio_query": "기숙사가 어디입니까?"
+    },
+    {
+      "word_kr": "서점",
+      "word_en": "bookstore",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>서점</b>에 책이 많아요.",
+      "sentence_en": "There are many books in the bookstore.",
+      "audio_query": "서점에 책이 많아요."
+    },
+    {
+      "word_kr": "책",
+      "word_en": "book",
+      "nuance": "Polite",
+      "category": "Objects",
+      "sentence_kr_html": "나타샤 씨가 <b>책</b>을 읽어요.",
+      "sentence_en": "Natasha is reading a book.",
+      "audio_query": "나타샤 씨가 책을 읽어요."
+    },
+    {
+      "word_kr": "공책",
+      "word_en": "notebook",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "쯔엉 씨에게 <b>공책</b>이 있습니다.",
+      "sentence_en": "Truong has a notebook.",
+      "audio_query": "쯔엉 씨에게 공책이 있습니다."
+    },
+    {
+      "word_kr": "연필",
+      "word_en": "pencil",
+      "nuance": "Polite",
+      "category": "Objects",
+      "sentence_kr_html": "저한테 <b>연필</b>이 없어요.",
+      "sentence_en": "I don't have a pencil.",
+      "audio_query": "저한테 연필이 없어요."
+    },
+    {
+      "word_kr": "책상",
+      "word_en": "desk",
+      "nuance": "Polite",
+      "category": "Objects",
+      "sentence_kr_html": "교실에 <b>책상</b>이 많아요.",
+      "sentence_en": "There are many desks in the classroom.",
+      "audio_query": "교실에 책상이 많아요."
+    },
+    {
+      "word_kr": "의자",
+      "word_en": "chair",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "책상하고 <b>의자</b>가 있습니다.",
+      "sentence_en": "There are desks and chairs.",
+      "audio_query": "책상하고 의자가 있습니다."
+    },
+    {
+      "word_kr": "앞",
+      "word_en": "front",
+      "nuance": "Polite",
+      "category": "Position",
+      "sentence_kr_html": "나타샤 씨가 나무 <b>앞</b>에 있어요.",
+      "sentence_en": "Natasha is in front of the tree.",
+      "audio_query": "나타샤 씨가 나무 앞에 있어요."
+    },
+    {
+      "word_kr": "뒤",
+      "word_en": "behind",
+      "nuance": "Polite",
+      "category": "Position",
+      "sentence_kr_html": "나타샤 씨가 나무 <b>뒤</b>에 있어요.",
+      "sentence_en": "Natasha is behind the tree.",
+      "audio_query": "나타샤 씨가 나무 뒤에 있어요."
+    },
+    {
+      "word_kr": "옆",
+      "word_en": "next to",
+      "nuance": "Polite",
+      "category": "Position",
+      "sentence_kr_html": "나타샤 씨가 나무 <b>옆</b>에 있어요.",
+      "sentence_en": "Natasha is next to the tree.",
+      "audio_query": "나타샤 씨가 나무 옆에 있어요."
+    },
+    {
+      "word_kr": "위",
+      "word_en": "on / above",
+      "nuance": "Polite",
+      "category": "Position",
+      "sentence_kr_html": "책이 책상 <b>위</b>에 있어요.",
+      "sentence_en": "The book is on the desk.",
+      "audio_query": "책이 책상 위에 있어요."
+    },
+    {
+      "word_kr": "아래",
+      "word_en": "under / below",
+      "nuance": "Polite",
+      "category": "Position",
+      "sentence_kr_html": "책이 책상 <b>아래</b>에 있어요.",
+      "sentence_en": "The book is under the desk.",
+      "audio_query": "책이 책상 아래에 있어요."
+    },
+    {
+      "word_kr": "사이",
+      "word_en": "between / space",
+      "nuance": "Formal",
+      "category": "Position",
+      "sentence_kr_html": "책과 공책 <b>사이</b>에 연필이 있습니다.",
+      "sentence_en": "There is a pencil between the book and the notebook.",
+      "audio_query": "책과 공책 사이에 연필이 있습니다."
+    },
+    {
+      "word_kr": "가운데",
+      "word_en": "middle / center",
+      "nuance": "Formal",
+      "category": "Position",
+      "sentence_kr_html": "운동장 <b>가운데</b> 나타샤 씨가 있습니다.",
+      "sentence_en": "Natasha is in the middle of the playground.",
+      "audio_query": "운동장 가운데 나타샤 씨가 있습니다."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Noun + 에 (Location)",
+      "sentence_cloze": "휴대 전화가 책상 위{{c1::에}} 있어요.",
+      "sentence_en": "The mobile phone is on the desk.",
+      "usage_note": "Attached to a location noun to indicate existence or location."
+    },
+    {
+      "grammar_point": "Noun + 에 (Location)",
+      "sentence_cloze": "동생이 집{{c1::에}} 있어요?",
+      "sentence_en": "Is your younger sibling at home?",
+      "usage_note": "Used with verbs like 있다 (to have/be) or 없다 (not to have/be)."
+    },
+    {
+      "grammar_point": "Noun + 에서 (Action)",
+      "sentence_cloze": "방{{c1::에서}} 쉬어요.",
+      "sentence_en": "I am resting in the room.",
+      "usage_note": "Attached to a location noun to indicate where an action is taking place."
+    },
+    {
+      "grammar_point": "Noun + 에서 (Action)",
+      "sentence_cloze": "저는 도서관{{c1::에서}} 한국어를 공부해요.",
+      "sentence_en": "I study Korean at the library.",
+      "usage_note": "Used with action verbs like 공부하다 (to study) or 일하다 (to work)."
+    },
+    {
+      "grammar_point": "Particle Contrast (에 vs 에서)",
+      "sentence_cloze": "언니가 방{{c1::에}} 없어요.",
+      "sentence_en": "My older sister is not in the room.",
+      "usage_note": "Use 에 for existence/location (있다/없다)."
+    },
+    {
+      "grammar_point": "Particle Contrast (에 vs 에서)",
+      "sentence_cloze": "준영 씨가 공원{{c1::에서}} 운동해요.",
+      "sentence_en": "Jun-young exercises at the park.",
+      "usage_note": "Use 에서 for active verbs (운동하다)."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "여기는 쯔엉 씨 방입니다.",
+      "sentence_en": "Here is Truong's room."
+    },
+    {
+      "sentence_kr": "방에 책상이 있습니다.",
+      "sentence_en": "There is a desk in the room."
+    },
+    {
+      "sentence_kr": "쯔엉 씨는 여기에서 공부를 합니다.",
+      "sentence_en": "Truong studies here."
+    },
+    {
+      "sentence_kr": "책상 위에 컴퓨터, 공책, 연필, 컵이 있습니다.",
+      "sentence_en": "On the desk, there is a computer, a notebook, a pencil, and a cup."
+    },
+    {
+      "sentence_kr": "컴퓨터 앞에 공책과 연필이 있습니다.",
+      "sentence_en": "In front of the computer, there is a notebook and a pencil."
+    },
+    {
+      "sentence_kr": "공책은 연필과 컵 사이에 있습니다.",
+      "sentence_en": "The notebook is between the pencil and the cup."
+    },
+    {
+      "sentence_kr": "책상 왼쪽에 가방이 있습니다.",
+      "sentence_en": "There is a bag to the left of the desk."
+    }
+  ]
+}

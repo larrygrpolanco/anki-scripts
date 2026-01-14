@@ -1,0 +1,236 @@
+{
+  "chapter_info": {
+    "number": 2,
+    "title_kr": "회사원이 아니에요",
+    "title_en": "I'm not an office worker",
+    "tags": ["Family", "Jobs", "Particles", "Negation"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "아버지",
+      "word_en": "Father",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>아버지</b>예요.",
+      "sentence_en": "This is my father.",
+      "audio_query": "아버지예요."
+    },
+    {
+      "word_kr": "어머니",
+      "word_en": "Mother",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>어머니</b>예요.",
+      "sentence_en": "This is my mother.",
+      "audio_query": "어머니예요."
+    },
+    {
+      "word_kr": "동생",
+      "word_en": "Younger sibling",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>동생</b>이에요.",
+      "sentence_en": "This is my younger sibling.",
+      "audio_query": "동생이에요."
+    },
+    {
+      "word_kr": "언니",
+      "word_en": "Older sister (females speak)",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>언니</b>예요.",
+      "sentence_en": "This is my older sister.",
+      "audio_query": "언니예요."
+    },
+    {
+      "word_kr": "누나",
+      "word_en": "Older sister (males speak)",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>누나</b>예요.",
+      "sentence_en": "This is my older sister.",
+      "audio_query": "누나예요."
+    },
+    {
+      "word_kr": "오빠",
+      "word_en": "Older brother (females speak)",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>오빠</b>예요.",
+      "sentence_en": "This is my older brother.",
+      "audio_query": "오빠예요."
+    },
+    {
+      "word_kr": "형",
+      "word_en": "Older brother (males speak)",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>형</b>이에요.",
+      "sentence_en": "This is my older brother.",
+      "audio_query": "형이에요."
+    },
+    {
+      "word_kr": "가수",
+      "word_en": "Singer",
+      "nuance": "Polite",
+      "category": "Job",
+      "sentence_kr_html": "언니가 <b>가수</b>예요.",
+      "sentence_en": "My older sister is a singer.",
+      "audio_query": "언니가 가수예요."
+    },
+    {
+      "word_kr": "배우",
+      "word_en": "Actor",
+      "nuance": "Polite",
+      "category": "Job",
+      "sentence_kr_html": "형이 <b>배우</b>예요.",
+      "sentence_en": "My older brother is an actor.",
+      "audio_query": "형이 배우예요."
+    },
+    {
+      "word_kr": "회사원",
+      "word_en": "Office worker",
+      "nuance": "Polite",
+      "category": "Job",
+      "sentence_kr_html": "어머니가 <b>회사원</b>이에요.",
+      "sentence_en": "My mother is an office worker.",
+      "audio_query": "어머니가 회사원이에요."
+    },
+    {
+      "word_kr": "의사",
+      "word_en": "Doctor",
+      "nuance": "Polite",
+      "category": "Job",
+      "sentence_kr_html": "아버지가 <b>의사</b>예요.",
+      "sentence_en": "My father is a doctor.",
+      "audio_query": "아버지가 의사예요."
+    },
+    {
+      "word_kr": "가족",
+      "word_en": "Family",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "여기는 우리 <b>가족</b>이에요.",
+      "sentence_en": "This is my family.",
+      "audio_query": "여기는 우리 가족이에요."
+    },
+    {
+      "word_kr": "이름",
+      "word_en": "Name",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "<b>이름</b>이 뭐예요?",
+      "sentence_en": "What is your name?",
+      "audio_query": "이름이 뭐예요?"
+    },
+    {
+      "word_kr": "직업",
+      "word_en": "Job",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "<b>직업</b>이 뭐예요?",
+      "sentence_en": "What is your job?",
+      "audio_query": "직업이 뭐예요?"
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Subject Particle (이/가)",
+      "sentence_cloze": "동생{{c1::이}} 학생이에요.",
+      "sentence_en": "My younger sibling is a student.",
+      "usage_note": "이 follows a consonant."
+    },
+    {
+      "grammar_point": "Subject Particle (이/가)",
+      "sentence_cloze": "누나{{c1::가}} 누나예요.",
+      "sentence_en": "She is my older sister.",
+      "usage_note": "가 follows a vowel."
+    },
+    {
+      "grammar_point": "Subject Particle (이/가)",
+      "sentence_cloze": "이름{{c1::이}} 뭐예요?",
+      "sentence_en": "What is your name?",
+      "usage_note": "이 follows a consonant."
+    },
+    {
+      "grammar_point": "Subject Particle (이/가)",
+      "sentence_cloze": "언니{{c1::가}} 학생이에요?",
+      "sentence_en": "Is your older sister a student?",
+      "usage_note": "가 follows a vowel."
+    },
+    {
+      "grammar_point": "Subject Particle (이/가)",
+      "sentence_cloze": "어머니{{c1::가}} 회사원이에요?",
+      "sentence_en": "Is your mother an office worker?",
+      "usage_note": "가 follows a vowel."
+    },
+    {
+      "grammar_point": "Subject Particle (이/가)",
+      "sentence_cloze": "친구{{c1::가}} 한국 사람이에요?",
+      "sentence_en": "Is your friend Korean?",
+      "usage_note": "가 follows a vowel."
+    },
+    {
+      "grammar_point": "Negative Copula (이/가 아니다)",
+      "sentence_cloze": "저는 한국 사람{{c1::이 아니에요}}.",
+      "sentence_en": "I am not Korean.",
+      "usage_note": "Used to deny a statement. Noun + 이/가 아니다."
+    },
+    {
+      "grammar_point": "Negative Copula (이/가 아니다)",
+      "sentence_cloze": "나타샤 씨가 미국 사람이에요? 아니요, 미국 사람{{c1::이 아니에요}}.",
+      "sentence_en": "Is Natasha American? No, she is not American.",
+      "usage_note": "이 아니에요 follows a consonant."
+    },
+    {
+      "grammar_point": "Negative Copula (이/가 아니다)",
+      "sentence_cloze": "지훈 씨 형이 회사원이에요? 아니요, 회사원{{c1::이 아니에요}}.",
+      "sentence_en": "Is Jihoon's older brother an office worker? No, he is not an office worker.",
+      "usage_note": "이 아니에요 follows a consonant."
+    },
+    {
+      "grammar_point": "Negative Copula (이/가 아니다)",
+      "sentence_cloze": "이 사람이 배우예요? 아니요, 배우{{c1::가 아니에요}}.",
+      "sentence_en": "Is this person an actor? No, they are not an actor.",
+      "usage_note": "가 아니에요 follows a vowel."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "제 가족 사진이에요.",
+      "sentence_en": "This is my family photo."
+    },
+    {
+      "sentence_kr": "우리 가족은 아버지, 어머니, 저예요.",
+      "sentence_en": "My family consists of my father, mother, and me."
+    },
+    {
+      "sentence_kr": "이 사람이 제 아버지예요.",
+      "sentence_en": "This person is my father."
+    },
+    {
+      "sentence_kr": "아버지는 회사원이에요.",
+      "sentence_en": "My father is an office worker."
+    },
+    {
+      "sentence_kr": "그리고 이 사람은 어머니예요.",
+      "sentence_en": "And this person is my mother."
+    },
+    {
+      "sentence_kr": "어머니는 배우예요.",
+      "sentence_en": "My mother is an actor."
+    },
+    {
+      "sentence_kr": "가수가 아니에요.",
+      "sentence_en": "She is not a singer."
+    },
+    {
+      "sentence_kr": "저는 대학생이에요.",
+      "sentence_en": "I am a university student."
+    },
+    {
+      "sentence_kr": "회사원이 아니에요.",
+      "sentence_en": "I am not an office worker."
+    }
+  ]
+}

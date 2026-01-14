@@ -1,0 +1,224 @@
+{
+  "chapter_info": {
+    "number": 3,
+    "title_kr": "저도 드라마를 좋아합니다",
+    "title_en": "I like dramas, too",
+    "tags": ["Hobbies", "Daily Life"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "노래",
+      "word_en": "song",
+      "nuance": "Formal",
+      "category": "Daily life",
+      "sentence_kr_html": "케이 팝(K-pop)은 <b>노래</b>입니다.",
+      "sentence_en": "K-pop is a song.",
+      "audio_query": "케이 팝은 노래입니다."
+    },
+    {
+      "word_kr": "드라마",
+      "word_en": "drama",
+      "nuance": "Formal",
+      "category": "Daily life",
+      "sentence_kr_html": "한국 <b>드라마</b>를 좋아합니다.",
+      "sentence_en": "I like Korean dramas.",
+      "audio_query": "한국 드라마를 좋아합니다."
+    },
+    {
+      "word_kr": "음식",
+      "word_en": "food",
+      "nuance": "Formal",
+      "category": "Daily life",
+      "sentence_kr_html": "김치, 비빔밥은 한국 <b>음식</b>입니다.",
+      "sentence_en": "Kimchi and Bibimbap are Korean foods.",
+      "audio_query": "김치, 비빔밥은 한국 음식입니다."
+    },
+    {
+      "word_kr": "전화",
+      "word_en": "call / telephone",
+      "nuance": "Formal",
+      "category": "Daily life",
+      "sentence_kr_html": "<b>전화</b>를 합니다.",
+      "sentence_en": "I am making a call.",
+      "audio_query": "전화를 합니다."
+    },
+    {
+      "word_kr": "하다",
+      "word_en": "to do",
+      "nuance": "Formal",
+      "category": "Verbs",
+      "sentence_kr_html": "노래를 <b>합니다</b>.",
+      "sentence_en": "I sing a song.",
+      "audio_query": "노래를 합니다."
+    },
+    {
+      "word_kr": "좋아하다",
+      "word_en": "to like",
+      "nuance": "Formal",
+      "category": "Verbs",
+      "sentence_kr_html": "한국 드라마를 <b>좋아합니다</b>.",
+      "sentence_en": "I like Korean dramas.",
+      "audio_query": "한국 드라마를 좋아합니다."
+    },
+    {
+      "word_kr": "가다",
+      "word_en": "to go",
+      "nuance": "Formal",
+      "category": "Verbs",
+      "sentence_kr_html": "여행을 <b>갑니다</b>.",
+      "sentence_en": "I go on a trip.",
+      "audio_query": "여행을 갑니다."
+    },
+    {
+      "word_kr": "먹다",
+      "word_en": "to eat",
+      "nuance": "Formal",
+      "category": "Verbs",
+      "sentence_kr_html": "한국 음식을 <b>먹습니다</b>.",
+      "sentence_en": "I eat Korean foods.",
+      "audio_query": "한국 음식을 먹습니다."
+    },
+    {
+      "word_kr": "듣다",
+      "word_en": "to listen",
+      "nuance": "Formal",
+      "category": "Verbs",
+      "sentence_kr_html": "한국 노래를 <b>듣습니다</b>.",
+      "sentence_en": "I listen to Korean songs.",
+      "audio_query": "한국 노래를 듣습니다."
+    },
+    {
+      "word_kr": "크다",
+      "word_en": "to be big",
+      "nuance": "Formal",
+      "category": "Adjectives",
+      "sentence_kr_html": "개가 <b>큽니다</b>.",
+      "sentence_en": "The dog is big.",
+      "audio_query": "개가 큽니다."
+    },
+    {
+      "word_kr": "작다",
+      "word_en": "to be small",
+      "nuance": "Formal",
+      "category": "Adjectives",
+      "sentence_kr_html": "개가 <b>작습니다</b>.",
+      "sentence_en": "The dog is small.",
+      "audio_query": "개가 작습니다."
+    },
+    {
+      "word_kr": "예쁘다",
+      "word_en": "to be pretty",
+      "nuance": "Formal",
+      "category": "Adjectives",
+      "sentence_kr_html": "꽃이 <b>예쁩니다</b>.",
+      "sentence_en": "The flowers are pretty.",
+      "audio_query": "꽃이 예쁩니다."
+    },
+    {
+      "word_kr": "좋다",
+      "word_en": "to be good",
+      "nuance": "Formal",
+      "category": "Adjectives",
+      "sentence_kr_html": "한국 음식이 <b>좋습니다</b>.",
+      "sentence_en": "Korean foods are good.",
+      "audio_query": "한국 음식이 좋습니다."
+    },
+    {
+      "word_kr": "무슨",
+      "word_en": "what / which kind of",
+      "nuance": "Formal",
+      "category": "Expressions",
+      "sentence_kr_html": "<b>무슨</b> 노래를 듣습니까?",
+      "sentence_en": "What song do you listen to?",
+      "audio_query": "무슨 노래를 듣습니까?"
+    },
+    {
+      "word_kr": "야채",
+      "word_en": "vegetable",
+      "nuance": "Formal",
+      "category": "Food",
+      "sentence_kr_html": "비빔밥은 <b>야채</b>가 많습니다.",
+      "sentence_en": "Bibimbap has a lot of vegetables.",
+      "audio_query": "비빔밥은 야채가 많습니다."
+    },
+    {
+      "word_kr": "자주",
+      "word_en": "often",
+      "nuance": "Formal",
+      "category": "Adverbs",
+      "sentence_kr_html": "그래서 저는 비빔밥을 <b>자주</b> 먹습니다.",
+      "sentence_en": "So I eat Bibimbap often.",
+      "audio_query": "그래서 저는 비빔밥을 자주 먹습니다."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "-습니까? / -습니다",
+      "sentence_cloze": "노래가 좋{{c1::습니까}}?",
+      "sentence_en": "Is the song good?",
+      "usage_note": "Formal interrogative ending used to ask questions."
+    },
+    {
+      "grammar_point": "-습니까? / -습니다",
+      "sentence_cloze": "노래가 좋{{c1::습니다}}.",
+      "sentence_en": "The song is good.",
+      "usage_note": "Formal declarative ending used to state facts."
+    },
+    {
+      "grammar_point": "을/를",
+      "sentence_cloze": "저는 밥{{c1::을}} 먹습니다.",
+      "sentence_en": "I eat rice.",
+      "usage_note": "Object particle (used after a noun ending in a consonant)."
+    },
+    {
+      "grammar_point": "을/를",
+      "sentence_cloze": "한국 노래{{c1::를}} 듣습니다.",
+      "sentence_en": "I listen to Korean songs.",
+      "usage_note": "Object particle (used after a noun ending in a vowel)."
+    },
+    {
+      "grammar_point": "을/를",
+      "sentence_cloze": "빵{{c1::을}} 먹습니다.",
+      "sentence_en": "I eat bread.",
+      "usage_note": "Object particle marking 'bread' as the object."
+    },
+    {
+      "grammar_point": "도",
+      "sentence_cloze": "한국 음식{{c1::도}} 좋아합니다.",
+      "sentence_en": "I like Korean food too.",
+      "usage_note": "Particle meaning 'also' or 'too'."
+    },
+    {
+      "grammar_point": "도",
+      "sentence_cloze": "저{{c1::도}} 한국 음식을 좋아합니다.",
+      "sentence_en": "I also like Korean food.",
+      "usage_note": "Particle meaning 'also' attached to the subject 'I'."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "여러분은 한국 음식을 좋아합니까?",
+      "sentence_en": "Do you all like Korean food?"
+    },
+    {
+      "sentence_kr": "저는 한국 음식을 아주 좋아합니다.",
+      "sentence_en": "I like Korean food very much."
+    },
+    {
+      "sentence_kr": "비빔밥을 제일 좋아합니다.",
+      "sentence_en": "I like Bibimbap the most."
+    },
+    {
+      "sentence_kr": "비빔밥은 야채가 많습니다.",
+      "sentence_en": "Bibimbap has a lot of vegetables."
+    },
+    {
+      "sentence_kr": "그리고 색이 예쁩니다.",
+      "sentence_en": "And the colors are pretty."
+    },
+    {
+      "sentence_kr": "그래서 저는 비빔밥을 자주 먹습니다.",
+      "sentence_en": "So I eat Bibimbap often."
+    }
+  ]
+}

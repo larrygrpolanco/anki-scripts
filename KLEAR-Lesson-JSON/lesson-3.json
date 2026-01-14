@@ -1,0 +1,268 @@
+{
+  "chapter_info": {
+    "number": 3,
+    "title_kr": "대학 캠퍼스",
+    "title_en": "The University Campus",
+    "tags": ["Locations", "Campus Life", "Directions"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "어디",
+      "word_en": "where",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "학교 식당이 <b>어디</b> 있어요?",
+      "sentence_en": "Where is the school cafeteria?",
+      "audio_query": "학교 식당이 어디 있어요?"
+    },
+    {
+      "word_kr": "있어요",
+      "word_en": "to exist/to be (location)",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "학교 식당이 어디 <b>있어요</b>?",
+      "sentence_en": "Where is the school cafeteria?",
+      "audio_query": "학교 식당이 어디 있어요?"
+    },
+    {
+      "word_kr": "유니온",
+      "word_en": "Union (building name)",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>유니온</b> 빌딩 1층에 있어요.",
+      "sentence_en": "It's on the first floor of the Union Building.",
+      "audio_query": "유니온 빌딩 1층에 있어요."
+    },
+    {
+      "word_kr": "빌딩",
+      "word_en": "building",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "유니온 <b>빌딩</b> 1층에 있어요.",
+      "sentence_en": "It's on the first floor of the Union Building.",
+      "audio_query": "유니온 빌딩 1층에 있어요."
+    },
+    {
+      "word_kr": "1층",
+      "word_en": "first floor",
+      "nuance": "Polite",
+      "category": "Locations",
+      "sentence_kr_html": "유니온 빌딩 <b>1층</b>에 있어요.",
+      "sentence_en": "It's on the first floor of the Union Building.",
+      "audio_query": "유니온 빌딩 1층에 있어요."
+    },
+    {
+      "word_kr": "도서관",
+      "word_en": "library",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>도서관</b> 뒤에도 있어요.",
+      "sentence_en": "There is one behind the library, too.",
+      "audio_query": "도서관 뒤에도 있어요."
+    },
+    {
+      "word_kr": "뒤",
+      "word_en": "back, behind",
+      "nuance": "Polite",
+      "category": "Locations",
+      "sentence_kr_html": "도서관 <b>뒤</b>에도 있어요.",
+      "sentence_en": "There is one behind the library, too.",
+      "audio_query": "도서관 뒤에도 있어요."
+    },
+    {
+      "word_kr": "앞",
+      "word_en": "front",
+      "nuance": "Polite",
+      "category": "Locations",
+      "sentence_kr_html": "우체국 <b>앞</b>에 있어요.",
+      "sentence_en": "It's in front of the post office.",
+      "audio_query": "우체국 앞에 있어요."
+    },
+    {
+      "word_kr": "우체국",
+      "word_en": "post office",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>우체국</b> 앞에 있어요.",
+      "sentence_en": "It's in front of the post office.",
+      "audio_query": "우체국 앞에 있어요."
+    },
+    {
+      "word_kr": "수업",
+      "word_en": "class",
+      "nuance": "Polite",
+      "category": "School",
+      "sentence_kr_html": "오늘 <b>수업</b> 있으세요?",
+      "sentence_en": "Do you have class today?",
+      "audio_query": "오늘 수업 있으세요?"
+    },
+    {
+      "word_kr": "오늘",
+      "word_en": "today",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>오늘</b> 수업 있으세요?",
+      "sentence_en": "Do you have class today?",
+      "audio_query": "오늘 수업 있으세요?"
+    },
+    {
+      "word_kr": "내일",
+      "word_en": "tomorrow",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>내일</b>은 경제학 수업이 있어요.",
+      "sentence_en": "I have economics class tomorrow.",
+      "audio_query": "내일은 경제학 수업이 있어요."
+    },
+    {
+      "word_kr": "경제학",
+      "word_en": "economics",
+      "nuance": "Polite",
+      "category": "Subjects",
+      "sentence_kr_html": "내일은 <b>경제학</b> 수업이 있어요.",
+      "sentence_en": "I have economics class tomorrow.",
+      "audio_query": "내일은 경제학 수업이 있어요."
+    },
+    {
+      "word_kr": "재미있어요",
+      "word_en": "to be interesting/fun",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "한국어 수업은 <b>재미있어요</b>?",
+      "sentence_en": "Is Korean class interesting?",
+      "audio_query": "한국어 수업은 재미있어요?"
+    },
+    {
+      "word_kr": "선생님",
+      "word_en": "teacher",
+      "nuance": "Polite",
+      "category": "People",
+      "sentence_kr_html": "<b>선생님</b>도 좋으세요.",
+      "sentence_en": "The teacher is also nice.",
+      "audio_query": "선생님도 좋으세요."
+    },
+    {
+      "word_kr": "좋으세요",
+      "word_en": "to be good/nice (honorific)",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "선생님도 <b>좋으세요</b>.",
+      "sentence_en": "The teacher is also nice.",
+      "audio_query": "선생님도 좋으세요."
+    },
+    {
+      "word_kr": "매일",
+      "word_en": "every day",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>매일</b> 열심히 한국어를 공부해요.",
+      "sentence_en": "I study Korean diligently every day.",
+      "audio_query": "매일 열심히 한국어를 공부해요."
+    },
+    {
+      "word_kr": "열심히",
+      "word_en": "diligently",
+      "nuance": "Polite",
+      "category": "Adverbs",
+      "sentence_kr_html": "매일 <b>열심히</b> 한국어를 공부해요.",
+      "sentence_en": "I study Korean diligently every day.",
+      "audio_query": "매일 열심히 한국어를 공부해요."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Location Particle 에 있어요",
+      "sentence_cloze": "서점{{c1::이 어디 있어요}}?",
+      "sentence_en": "Where is the bookstore?",
+      "usage_note": "에 marks static location. 있어요 indicates existence."
+    },
+    {
+      "grammar_point": "Location Particle 에 있어요",
+      "sentence_cloze": "우체국 옆{{c1::에 있어요}}.",
+      "sentence_en": "It is beside the post office.",
+      "usage_note": "에 marks static location. 있어요 indicates existence."
+    },
+    {
+      "grammar_point": "Topic Particle 은/는 (Topic Shift)",
+      "sentence_cloze": "기숙사{{c1::는 어디 있어요}}?",
+      "sentence_en": "As for the dormitory, where is it?",
+      "usage_note": "Shifts topic in conversation. Use 는 after vowels."
+    },
+    {
+      "grammar_point": "Topic Particle 은/는 (Topic Shift)",
+      "sentence_cloze": "서점{{c1::은요}}?",
+      "sentence_en": "How about the bookstore?",
+      "usage_note": "Shifts topic in conversation. Use 은 after consonants."
+    },
+    {
+      "grammar_point": "Possession: 있/없어요",
+      "sentence_cloze": "한국어 사전 {{c1::있어요}}?",
+      "sentence_en": "Do you have a Korean dictionary?",
+      "usage_note": "있어요 = have, 없어요 = don't have. Subject particle required."
+    },
+    {
+      "grammar_point": "Possession: 있/없어요",
+      "sentence_cloze": "오늘 수업{{c1::이 없어요}}.",
+      "sentence_en": "I don't have class today.",
+      "usage_note": "있어요 = have, 없어요 = don't have. Subject particle required."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "학교 식당이 어디 있어요?",
+      "sentence_en": "Where is the school cafeteria?"
+    },
+    {
+      "sentence_kr": "유니온 빌딩 1층에 있어요.",
+      "sentence_en": "It's on the first floor of the Union Building."
+    },
+    {
+      "sentence_kr": "그리고 도서관 뒤에도 있어요.",
+      "sentence_en": "There is one behind the library, too."
+    },
+    {
+      "sentence_kr": "유니온 빌딩은 어디 있어요?",
+      "sentence_en": "Where is the Union Building?"
+    },
+    {
+      "sentence_kr": "우체국 앞에 있어요.",
+      "sentence_en": "It's in front of the post office."
+    },
+    {
+      "sentence_kr": "마이클 씨, 오늘 수업 있으세요?",
+      "sentence_en": "Michael, do you have class today?"
+    },
+    {
+      "sentence_kr": "네, 한국어 수업이 있어요.",
+      "sentence_en": "Yes, I have Korean class."
+    },
+    {
+      "sentence_kr": "제니 씨는요?",
+      "sentence_en": "How about you, Jenny?"
+    },
+    {
+      "sentence_kr": "오늘은 수업이 없어요.",
+      "sentence_en": "I don't have class today."
+    },
+    {
+      "sentence_kr": "그런데, 내일은 경제학 수업이 있어요.",
+      "sentence_en": "But, I have economics class tomorrow."
+    },
+    {
+      "sentence_kr": "한국어 수업은 재미있어요?",
+      "sentence_en": "Is Korean class interesting?"
+    },
+    {
+      "sentence_kr": "네, 아주 재미있어요.",
+      "sentence_en": "Yes, it's very interesting."
+    },
+    {
+      "sentence_kr": "그리고 선생님도 좋으세요.",
+      "sentence_en": "And the teacher is also nice."
+    },
+    {
+      "sentence_kr": "그래서 매일 열심히 한국어를 공부해요.",
+      "sentence_en": "So I study Korean diligently every day."
+    }
+  ]
+}

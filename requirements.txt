@@ -1,2 +1,4 @@
 google-genai==1.57.0
 genanki
+python-dotenv
+openai>=1.50.0

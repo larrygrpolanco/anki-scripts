@@ -1,0 +1,215 @@
+{
+  "chapter_info": {
+    "number": 1,
+    "title_kr": "인사",
+    "title_en": "Greetings",
+    "tags": ["Introductions", "Basic Conversation", "Politeness Levels"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "안녕하세요",
+      "word_en": "Hello",
+      "nuance": "Polite",
+      "category": "Greetings",
+      "sentence_kr_html": "<b>안녕하세요</b>? 저는 스티브 윌슨이에요.",
+      "sentence_en": "Hello? I am Steve Wilson.",
+      "audio_query": "안녕하세요? 저는 스티브 윌슨이에요."
+    },
+    {
+      "word_kr": "저",
+      "word_en": "I (humble)",
+      "nuance": "Polite",
+      "category": "Pronouns",
+      "sentence_kr_html": "저는 스티브 윌슨이에요. <b>저</b>는 3학년이에요.",
+      "sentence_en": "I am Steve Wilson. I am a junior.",
+      "audio_query": "저는 스티브 윌슨이에요. 저는 3학년이에요."
+    },
+    {
+      "word_kr": "3학년",
+      "word_en": "junior",
+      "nuance": "Polite",
+      "category": "School Years",
+      "sentence_kr_html": "저는 스티브 윌슨이에요. 저는 <b>3학년</b>이에요.",
+      "sentence_en": "I am Steve Wilson. I am a junior.",
+      "audio_query": "저는 스티브 윌슨이에요. 저는 3학년이에요."
+    },
+    {
+      "word_kr": "1학년",
+      "word_en": "freshman",
+      "nuance": "Polite",
+      "category": "School Years",
+      "sentence_kr_html": "저는 김유미예요. <b>1학년</b>이에요.",
+      "sentence_en": "I am Yumi Kim. I am a freshman.",
+      "audio_query": "저는 김유미예요. 저는 1학년이에요."
+    },
+    {
+      "word_kr": "사람",
+      "word_en": "person",
+      "nuance": "Polite",
+      "category": "People",
+      "sentence_kr_html": "소피아 씨는 한국 <b>사람</b>이에요?",
+      "sentence_en": "Are you Korean?",
+      "audio_query": "소피아 씨는 한국 사람이에요?"
+    },
+    {
+      "word_kr": "이름",
+      "word_en": "name",
+      "nuance": "Polite",
+      "category": "Personal Info",
+      "sentence_kr_html": "이름이 <b>이름</b>이 뭐예요?",
+      "sentence_en": "What is your name?",
+      "audio_query": "이름이 뭐예요?"
+    },
+    {
+      "word_kr": "씨",
+      "word_en": "Mr./Ms.",
+      "nuance": "Polite",
+      "category": "Titles",
+      "sentence_kr_html": "안녕하세요, 스티브 <b>씨</b>?",
+      "sentence_en": "Hello, Steve?",
+      "audio_query": "안녕하세요, 스티브 씨?"
+    },
+    {
+      "word_kr": "아니요",
+      "word_en": "no",
+      "nuance": "Polite",
+      "category": "Responses",
+      "sentence_kr_html": "<b>아니요</b>, 한국 사람이 아니에요.",
+      "sentence_en": "No, I'm not Korean.",
+      "audio_query": "아니요, 한국 사람이 아니에요."
+    },
+    {
+      "word_kr": "뭐",
+      "word_en": "what",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "이름이 <b>뭐</b>예요?",
+      "sentence_en": "What is your name?",
+      "audio_query": "이름이 뭐예요?"
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Topic Particle 은/는",
+      "sentence_cloze": "저{{c1::는}} 학생이에요.",
+      "sentence_en": "I am a student.",
+      "usage_note": "Marks the topic. Use 는 after consonants, 은 after vowels."
+    },
+    {
+      "grammar_point": "Topic Particle 은/는",
+      "sentence_cloze": "마이클{{c1::은}} 대학생이에요.",
+      "sentence_en": "Michael is a college student.",
+      "usage_note": "Marks the topic. Use 는 after consonants, 은 after vowels."
+    },
+    {
+      "grammar_point": "Topic Particle 은/는",
+      "sentence_cloze": "김유미{{c1::는}} 1학년이에요.",
+      "sentence_en": "Yumi Kim is a freshman.",
+      "usage_note": "Marks the topic. Use 는 after consonants, 은 after vowels."
+    },
+    {
+      "grammar_point": "Equational Copula 이에요/예요",
+      "sentence_cloze": "저는 학생{{c1::이에요}}.",
+      "sentence_en": "I am a student.",
+      "usage_note": "Used when noun ends with consonant. Means 'to be'."
+    },
+    {
+      "grammar_point": "Equational Copula 이에요/예요",
+      "sentence_cloze": "저는 김유미{{c1::예요}}.",
+      "sentence_en": "I am Yumi Kim.",
+      "usage_note": "Used when noun ends with vowel. Means 'to be'."
+    },
+    {
+      "grammar_point": "Particle 도 (also/too)",
+      "sentence_cloze": "저{{c1::도}} 1학년이에요.",
+      "sentence_en": "I am also a freshman.",
+      "usage_note": "Indicates 'also' or 'too' in parallel situations."
+    },
+    {
+      "grammar_point": "Yes/No Questions",
+      "sentence_cloze": "한국 사람{{c1::이에요}}?",
+      "sentence_en": "Are you Korean?",
+      "usage_note": "Same word order as statement, only rising intonation."
+    },
+    {
+      "grammar_point": "Yes/No Questions",
+      "sentence_cloze": "2학년{{c1::이에요}}?",
+      "sentence_en": "Are you a sophomore?",
+      "usage_note": "Same word order as statement, only rising intonation."
+    },
+    {
+      "grammar_point": "Negative Copula 아니에요",
+      "sentence_cloze": "소피아 왕은 한국 사람{{c1::이 아니에요}}.",
+      "sentence_en": "Sophia Wang is not Korean.",
+      "usage_note": "Subject particle 이/가 + 아니에요 for negation."
+    },
+    {
+      "grammar_point": "Negative Copula 아니에요",
+      "sentence_cloze": "저는 1학년{{c1::이 아니에요}}.",
+      "sentence_en": "I am not a freshman.",
+      "usage_note": "Subject particle 이/가 + 아니에요 for negation."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "안녕하세요? 저는 스티브 윌슨이에요.",
+      "sentence_en": "Hello? I am Steve Wilson."
+    },
+    {
+      "sentence_kr": "저는 3학년이에요.",
+      "sentence_en": "I am a junior."
+    },
+    {
+      "sentence_kr": "안녕하세요? 저는 김유미예요.",
+      "sentence_en": "Hi. I am Yumi Kim."
+    },
+    {
+      "sentence_kr": "저는 1학년이에요.",
+      "sentence_en": "I am a freshman."
+    },
+    {
+      "sentence_kr": "마이클 정이에요.",
+      "sentence_en": "I am Michael Jung."
+    },
+    {
+      "sentence_kr": "저도 1학년이에요.",
+      "sentence_en": "I am also a freshman."
+    },
+    {
+      "sentence_kr": "안녕하세요? 저는 마이클 정이에요.",
+      "sentence_en": "Hello. I am Michael Jung."
+    },
+    {
+      "sentence_kr": "이름이 뭐예요?",
+      "sentence_en": "What is your name?"
+    },
+    {
+      "sentence_kr": "소피아 왕이에요.",
+      "sentence_en": "I am Sophia Wang."
+    },
+    {
+      "sentence_kr": "반갑습니다.",
+      "sentence_en": "Glad to meet you."
+    },
+    {
+      "sentence_kr": "소피아 씨는 한국 사람이에요?",
+      "sentence_en": "Are you Korean?"
+    },
+    {
+      "sentence_kr": "아니요, 한국 사람이 아니에요.",
+      "sentence_en": "No, I'm not Korean."
+    },
+    {
+      "sentence_kr": "중국 사람이에요.",
+      "sentence_en": "I am Chinese."
+    },
+    {
+      "sentence_kr": "아, 그래요?",
+      "sentence_en": "Oh, really?"
+    },
+    {
+      "sentence_kr": "저는 한국 사람이에요.",
+      "sentence_en": "I am Korean."
+    }
+  ]
+}

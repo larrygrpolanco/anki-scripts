@@ -1,0 +1,164 @@
+{
+  "chapter_info": {
+    "number": 7,
+    "title_kr": "주말",
+    "title_en": "The Weekend",
+    "tags": ["Leisure", "Plans", "Future Actions"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "주말",
+      "word_en": "weekend",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "이번 <b>주말</b>에 약속 있으세요?",
+      "sentence_en": "Do you have plans for this weekend?",
+      "audio_query": "이번 주말에 약속 있으세요?"
+    },
+    {
+      "word_kr": "약속",
+      "word_en": "plans/appointment",
+      "nuance": "Polite",
+      "category": "Activities",
+      "sentence_kr_html": "이번 주말에 <b>약속</b> 있으세요?",
+      "sentence_en": "Do you have plans for this weekend?",
+      "audio_query": "이번 주말에 약속 있으세요?"
+    },
+    {
+      "word_kr": "볼 거예요",
+      "word_en": "going to watch/see",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "친구하고 영화 <b>볼 거예요</b>.",
+      "sentence_en": "I'm going to watch a movie with my friend.",
+      "audio_query": "친구하고 영화 볼 거예요."
+    },
+    {
+      "word_kr": "영화",
+      "word_en": "movie",
+      "nuance": "Polite",
+      "category": "Entertainment",
+      "sentence_kr_html": "친구하고 <b>영화</b> 볼 거예요.",
+      "sentence_en": "I'm going to watch a movie with my friend.",
+      "audio_query": "친구하고 영화 볼 거예요."
+    },
+    {
+      "word_kr": "무슨",
+      "word_en": "what kind of",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "<b>무슨</b> 영화 볼 거예요?",
+      "sentence_en": "What kind of movie are you going to watch?",
+      "audio_query": "무슨 영화 볼 거예요?"
+    },
+    {
+      "word_kr": "극장",
+      "word_en": "theater",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "어느 <b>극장</b>에서 볼 거예요?",
+      "sentence_en": "Which theater are you going to watch it at?",
+      "audio_query": "어느 극장에서 볼 거예요?"
+    },
+    {
+      "word_kr": "시간",
+      "word_en": "time",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "몇 <b>시간</b>쯤 걸릴까요?",
+      "sentence_en": "About how many hours will it take?",
+      "audio_query": "몇 시간쯤 걸릴까요?"
+    },
+    {
+      "word_kr": "몇 시",
+      "word_en": "what time",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "<b>몇 시</b>쯤 시작해요?",
+      "sentence_en": "Around what time does it start?",
+      "audio_query": "몇 시쯤 시작해요?"
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Future/Intention ~(으)ㄹ 거예요",
+      "sentence_cloze": "이번 방학에 뭐 할{{c1:: 거예요}}?",
+      "sentence_en": "What will you do this vacation?",
+      "usage_note": "ㄹ 거예요 after vowels, 을 거예요 after consonants. Means 'will' or 'going to'."
+    },
+    {
+      "grammar_point": "Future/Intention ~(으)ㄹ 거예요",
+      "sentence_cloze": "친구하고 영화 볼{{c1:: 거예요}}.",
+      "sentence_en": "I'm going to watch a movie with a friend.",
+      "usage_note": "ㄹ 거예요 after vowels, 을 거예요 after consonants. Means 'will' or 'going to'."
+    },
+    {
+      "grammar_point": "Future/Intention ~(으)ㄹ 거예요",
+      "sentence_cloze": "오후에 비가 올{{c1:: 거예요}}.",
+      "sentence_en": "It will probably rain in the afternoon.",
+      "usage_note": "ㄹ 거예요 after vowels, 을 거예요 after consonants. Means 'will' or 'going to'."
+    },
+    {
+      "grammar_point": "무슨 vs 어느",
+      "sentence_cloze": "<b>무슨</b> 영화 좋아해요?",
+      "sentence_en": "What (kind of) movies do you like?",
+      "usage_note": "무슨 asks 'what kind of' (open-ended). 어느 asks 'which' (limited choices)."
+    },
+    {
+      "grammar_point": "무슨 vs 어느",
+      "sentence_cloze": "<b>어느</b> 극장에서 볼 거예요?",
+      "sentence_en": "Which theater will you watch it at?",
+      "usage_note": "무슨 asks 'what kind of' (open-ended). 어느 asks 'which' (limited choices)."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "스티브 씨, 이번 주말에 약속 있으세요?",
+      "sentence_en": "Steve, do you have any plans for this weekend?"
+    },
+    {
+      "sentence_kr": "아니요, 없어요.",
+      "sentence_en": "No, I don't."
+    },
+    {
+      "sentence_kr": "저는 친구하고 영화 볼 거예요.",
+      "sentence_en": "I'm going to watch a movie with my friend."
+    },
+    {
+      "sentence_kr": "스티브 씨도 같이 가요.",
+      "sentence_en": "Why don't you join us, Steve?"
+    },
+    {
+      "sentence_kr": "무슨 영화 볼 거예요?",
+      "sentence_en": "What movie are you going to watch?"
+    },
+    {
+      "sentence_kr": "한국 영화 볼 거예요.",
+      "sentence_en": "We're going to watch a Korean movie."
+    },
+    {
+      "sentence_kr": "어느 극장에서 볼 거예요?",
+      "sentence_en": "Which theater are you going to watch it at?"
+    },
+    {
+      "sentence_kr": "시내 극장에서 볼 거예요.",
+      "sentence_en": "We'll watch it at the downtown theater."
+    },
+    {
+      "sentence_kr": "몇 시쯤 시작해요?",
+      "sentence_en": "Around what time does it start?"
+    },
+    {
+      "sentence_kr": "7시쯤 시작해요.",
+      "sentence_en": "It starts around 7 o'clock."
+    },
+    {
+      "sentence_kr": "몇 시간쯤 걸릴까요?",
+      "sentence_en": "About how many hours will it take?"
+    },
+    {
+      "sentence_kr": "두 시간쯤 걸릴 거예요.",
+      "sentence_en": "It will probably take about two hours."
+    }
+  ]
+}

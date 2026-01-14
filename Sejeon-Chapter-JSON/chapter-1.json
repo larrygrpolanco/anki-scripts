@@ -1,0 +1,198 @@
+{
+  "chapter_info": {
+    "number": 1,
+    "title_kr": "저는 한국 사람이에요",
+    "title_en": "I am from Korea",
+    "tags": ["Introductions", "Nationalities", "Occupations"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "한국",
+      "word_en": "Korea",
+      "nuance": "Polite",
+      "category": "Country",
+      "sentence_kr_html": "선생님은 <b>한국</b> 사람이에요.",
+      "sentence_en": "My teacher is from Korea.",
+      "audio_query": "선생님은 한국 사람이에요."
+    },
+    {
+      "word_kr": "러시아",
+      "word_en": "Russia",
+      "nuance": "Polite",
+      "category": "Country",
+      "sentence_kr_html": "저는 <b>러시아</b> 사람이에요.",
+      "sentence_en": "I'm from Russia.",
+      "audio_query": "저는 러시아 사람이에요."
+    },
+    {
+      "word_kr": "미국",
+      "word_en": "United States",
+      "nuance": "Polite",
+      "category": "Country",
+      "sentence_kr_html": "저는 <b>미국</b> 사람이에요.",
+      "sentence_en": "I'm from the United States.",
+      "audio_query": "저는 미국 사람이에요."
+    },
+    {
+      "word_kr": "베트남",
+      "word_en": "Vietnam",
+      "nuance": "Polite",
+      "category": "Country",
+      "sentence_kr_html": "저는 <b>베트남</b> 사람이에요.",
+      "sentence_en": "I'm from Vietnam.",
+      "audio_query": "저는 베트남 사람이에요."
+    },
+    {
+      "word_kr": "멕시코",
+      "word_en": "Mexico",
+      "nuance": "Polite",
+      "category": "Country",
+      "sentence_kr_html": "저는 <b>멕시코</b> 사람이에요.",
+      "sentence_en": "I'm from Mexico.",
+      "audio_query": "저는 멕시코 사람이에요."
+    },
+    {
+      "word_kr": "중국",
+      "word_en": "China",
+      "nuance": "Polite",
+      "category": "Country",
+      "sentence_kr_html": "저는 <b>중국</b> 사람이에요.",
+      "sentence_en": "I'm from China.",
+      "audio_query": "저는 중국 사람이에요."
+    },
+    {
+      "word_kr": "선생님",
+      "word_en": "Teacher",
+      "nuance": "Polite",
+      "category": "Job",
+      "sentence_kr_html": "저는 <b>선생님</b>이에요.",
+      "sentence_en": "I'm a teacher.",
+      "audio_query": "저는 선생님이에요."
+    },
+    {
+      "word_kr": "학생",
+      "word_en": "Student",
+      "nuance": "Polite",
+      "category": "Job",
+      "sentence_kr_html": "여러분은 <b>학생</b>이에요.",
+      "sentence_en": "You are students.",
+      "audio_query": "여러분은 학생이에요."
+    },
+    {
+      "word_kr": "어느",
+      "word_en": "Which",
+      "nuance": "Polite",
+      "category": "Question Word",
+      "sentence_kr_html": "<b>어느</b> 나라 사람이에요?",
+      "sentence_en": "Which country are you from?",
+      "audio_query": "어느 나라 사람이에요?"
+    },
+    {
+      "word_kr": "사람",
+      "word_en": "Person",
+      "nuance": "Polite",
+      "category": "Noun",
+      "sentence_kr_html": "저는 한국 <b>사람</b>이에요.",
+      "sentence_en": "I am a Korean person.",
+      "audio_query": "저는 한국 사람이에요."
+    },
+    {
+      "word_kr": "나라",
+      "word_en": "Country",
+      "nuance": "Polite",
+      "category": "Noun",
+      "sentence_kr_html": "한국, 러시아, 베트남, 멕시코, 모두 <b>나라</b>예요.",
+      "sentence_en": "Korea, Russia, Vietnam, Mexico are all countries.",
+      "audio_query": "한국, 러시아, 베트남, 멕시코, 모두 나라예요."
+    },
+    {
+      "word_kr": "안녕?",
+      "word_en": "Hello?",
+      "nuance": "Casual",
+      "category": "Greeting",
+      "sentence_kr_html": "<b>안녕</b>?",
+      "sentence_en": "Hello? (Casual)",
+      "audio_query": "안녕?"
+    },
+    {
+      "word_kr": "안녕하세요?",
+      "word_en": "Hello?",
+      "nuance": "Polite",
+      "category": "Greeting",
+      "sentence_kr_html": "<b>안녕하세요</b>?",
+      "sentence_en": "Hello? (Polite)",
+      "audio_query": "안녕하세요?"
+    },
+    {
+      "word_kr": "안녕하십니까?",
+      "word_en": "Hello?",
+      "nuance": "Formal",
+      "category": "Greeting",
+      "sentence_kr_html": "<b>안녕하십니까</b>?",
+      "sentence_en": "Hello? (Formal)",
+      "audio_query": "안녕하십니까?"
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Noun + 이에요/예요 (to be)",
+      "sentence_cloze": "저는 베트남 사람{{c1::이에요}}.",
+      "sentence_en": "I am a Vietnamese person.",
+      "usage_note": "Attached after a noun to describe it. Used when noun ends in a consonant."
+    },
+    {
+      "grammar_point": "Noun + 이에요/예요 (to be)",
+      "sentence_cloze": "저는 리사{{c1::예요}}.",
+      "sentence_en": "I am Lisa.",
+      "usage_note": "Attached after a noun to describe it. Used when noun ends in a vowel."
+    },
+    {
+      "grammar_point": "Noun + 은/는 (Topic Particle)",
+      "sentence_cloze": "쯔엉{{c1::은}} 학생이에요.",
+      "sentence_en": "Truong is a student.",
+      "usage_note": "Indicates the subject/topic. Used when noun ends in a consonant."
+    },
+    {
+      "grammar_point": "Noun + 은/는 (Topic Particle)",
+      "sentence_cloze": "저{{c1::는}} 한국 사람이에요.",
+      "sentence_en": "I am Korean.",
+      "usage_note": "Indicates the subject/topic. Used when noun ends in a vowel."
+    },
+    {
+      "grammar_point": "Noun + 은/는 (Topic Particle)",
+      "sentence_cloze": "선생님{{c1::은}} 한국 사람이에요.",
+      "sentence_en": "The teacher is Korean.",
+      "usage_note": "Topic marker following a consonant."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "안녕하세요? 저는 이지훈이에요.",
+      "sentence_en": "Hello? I am Lee Ji-hoon."
+    },
+    {
+      "sentence_kr": "한국 사람이에요.",
+      "sentence_en": "I am Korean."
+    },
+    {
+      "sentence_kr": "저는 학생이에요.",
+      "sentence_en": "I am a student."
+    },
+    {
+      "sentence_kr": "리사 씨예요.",
+      "sentence_en": "This is Ms. Lisa."
+    },
+    {
+      "sentence_kr": "친구예요.",
+      "sentence_en": "She is a friend."
+    },
+    {
+      "sentence_kr": "미국 사람이에요.",
+      "sentence_en": "She is American."
+    },
+    {
+      "sentence_kr": "리사 씨는 영어 선생님이에요.",
+      "sentence_en": "Ms. Lisa is an English teacher."
+    }
+  ]
+}

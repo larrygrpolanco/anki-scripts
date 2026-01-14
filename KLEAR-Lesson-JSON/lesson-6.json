@@ -1,0 +1,175 @@
+{
+  "chapter_info": {
+    "number": 6,
+    "title_kr": "나의 하루",
+    "title_en": "My Day",
+    "tags": ["Daily Life", "Transportation", "Time Duration"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "어디 살아요",
+      "word_en": "where do you live",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "제니 씨, <b>어디 살아요</b>?",
+      "sentence_en": "Where do you live, Jenny?",
+      "audio_query": "제니 씨, 어디 살아요?"
+    },
+    {
+      "word_kr": "살아요",
+      "word_en": "to live",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "한인타운에 <b>살아요</b>.",
+      "sentence_en": "I live in Koreatown.",
+      "audio_query": "한인타운에 살아요."
+    },
+    {
+      "word_kr": "한인타운",
+      "word_en": "Koreatown",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>한인타운</b>에 살아요.",
+      "sentence_en": "I live in Koreatown.",
+      "audio_query": "한인타운에 살아요."
+    },
+    {
+      "word_kr": "얼마나 걸려요",
+      "word_en": "how long does it take",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "집에서 학교까지 <b>얼마나 걸려요</b>?",
+      "sentence_en": "How long does it take from home to school?",
+      "audio_query": "집에서 학교까지 얼마나 걸려요?"
+    },
+    {
+      "word_kr": "차로",
+      "word_en": "by car",
+      "nuance": "Polite",
+      "category": "Transportation",
+      "sentence_kr_html": "<b>차로</b> 한 시간쯤 걸려요.",
+      "sentence_en": "It takes about an hour by car.",
+      "audio_query": "차로 한 시간쯤 걸려요."
+    },
+    {
+      "word_kr": "한 시간쯤",
+      "word_en": "about an hour",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "차로 <b>한 시간쯤</b> 걸려요.",
+      "sentence_en": "It takes about an hour by car.",
+      "audio_query": "차로 한 시간쯤 걸려요."
+    },
+    {
+      "word_kr": "멀어요",
+      "word_en": "to be far",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "좀 <b>멀어요</b>.",
+      "sentence_en": "It's a little far.",
+      "audio_query": "좀 멀어요."
+    },
+    {
+      "word_kr": "학교 앞",
+      "word_en": "across from school",
+      "nuance": "Polite",
+      "category": "Locations",
+      "sentence_kr_html": "저는 <b>학교 앞</b> 아파트에 살아요.",
+      "sentence_en": "I live in an apartment across from school.",
+      "audio_query": "저는 학교 앞 아파트에 살아요."
+    },
+    {
+      "word_kr": "가까워요",
+      "word_en": "to be close",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "아주 <b>가까워요</b>.",
+      "sentence_en": "It's very close.",
+      "audio_query": "아주 가까워요."
+    },
+    {
+      "word_kr": "보통",
+      "word_en": "usually",
+      "nuance": "Polite",
+      "category": "Adverbs",
+      "sentence_kr_html": "<b>보통</b> 걸어서 5분 걸려요.",
+      "sentence_en": "It usually takes 5 minutes to walk.",
+      "audio_query": "보통 걸어서 5분 걸려요."
+    },
+    {
+      "word_kr": "걸어서",
+      "word_en": "by walking/on foot",
+      "nuance": "Polite",
+      "category": "Transportation",
+      "sentence_kr_html": "보통 <b>걸어서</b> 5분 걸려요.",
+      "sentence_en": "It usually takes 5 minutes to walk.",
+      "audio_query": "보통 걸어서 5분 걸려요."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Instrument Particle (으)로",
+      "sentence_cloze": "학교에 버스{{c1::로}} 가요.",
+      "sentence_en": "I go to school by bus.",
+      "usage_note": "로 after vowels/ㄹ, 으로 after other consonants. Means 'by' or 'with'."
+    },
+    {
+      "grammar_point": "Instrument Particle (으)로",
+      "sentence_cloze": "볼펜{{c1::으로}} 쓰세요.",
+      "sentence_en": "Please write with a ballpoint pen.",
+      "usage_note": "로 after vowels/ㄹ, 으로 after other consonants. Means 'by' or 'with'."
+    },
+    {
+      "grammar_point": "Irregular ㅂ Verbs",
+      "sentence_cloze": "날씨가 추{{c1::워요}}.",
+      "sentence_en": "The weather is cold.",
+      "usage_note": "ㅂ becomes 우 before vowels. 춥다 → 추워요."
+    },
+    {
+      "grammar_point": "Irregular ㅂ Verbs",
+      "sentence_cloze": "시험이 어려{{c1::워요}}.",
+      "sentence_en": "The test is difficult.",
+      "usage_note": "ㅂ becomes 우 before vowels. 어렵다 → 어려워요."
+    },
+    {
+      "grammar_point": "Irregular ㅂ Verbs",
+      "sentence_cloze": "학교가 가까{{c1::워요}}.",
+      "sentence_en": "School is close.",
+      "usage_note": "ㅂ becomes 우 before vowels. 가깝다 → 가까워요."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "제니 씨, 어디 살아요?",
+      "sentence_en": "Where do you live, Jenny?"
+    },
+    {
+      "sentence_kr": "한인타운에 살아요.",
+      "sentence_en": "I live in Koreatown."
+    },
+    {
+      "sentence_kr": "집에서 학교까지 얼마나 걸려요?",
+      "sentence_en": "How long does it take from home to school?"
+    },
+    {
+      "sentence_kr": "좀 멀어요. 차로 한 시간쯤 걸려요.",
+      "sentence_en": "It's a little far. It takes about an hour by car."
+    },
+    {
+      "sentence_kr": "마이클 씨는 어디 살아요?",
+      "sentence_en": "Where do you live, Michael?"
+    },
+    {
+      "sentence_kr": "저는 학교 앞 아파트에 살아요.",
+      "sentence_en": "I live in an apartment across from school."
+    },
+    {
+      "sentence_kr": "아주 가까워요.",
+      "sentence_en": "It's very close."
+    },
+    {
+      "sentence_kr": "보통 걸어서 5분 걸려요.",
+      "sentence_en": "It usually takes 5 minutes to walk."
+    }
+  ]
+}

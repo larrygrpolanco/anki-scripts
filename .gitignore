@@ -1,3 +1,29 @@
 
-.venv
-.env*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables (sensitive info)
+.env
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs (optional but recommended)
+.vscode/
+.idea/
+*.swp

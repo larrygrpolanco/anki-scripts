@@ -1,0 +1,343 @@
+{
+  "chapter_info": {
+    "number": 4,
+    "title_kr": "집",
+    "title_en": "At Home",
+    "tags": ["Family", "Home", "Relationships"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "집",
+      "word_en": "home, house",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>집</b>이 어디예요?",
+      "sentence_en": "Where is your home?",
+      "audio_query": "집이 어디예요?"
+    },
+    {
+      "word_kr": "어디예요",
+      "word_en": "where is it?",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "집이 <b>어디예요</b>?",
+      "sentence_en": "Where is your home?",
+      "audio_query": "집이 어디예요?"
+    },
+    {
+      "word_kr": "부모님",
+      "word_en": "parents",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>부모님</b>은 어디 계세요?",
+      "sentence_en": "Where are your parents?",
+      "audio_query": "부모님은 어디 계세요?"
+    },
+    {
+      "word_kr": "계세요",
+      "word_en": "to be (honorific)",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "부모님은 어디 <b>계세요</b>?",
+      "sentence_en": "Where are your parents?",
+      "audio_query": "부모님은 어디 계세요?"
+    },
+    {
+      "word_kr": "아버지",
+      "word_en": "father",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>아버지</b>하고 어머니가 보스턴에 계세요.",
+      "sentence_en": "My father and mother are in Boston.",
+      "audio_query": "아버지하고 어머니가 보스턴에 계세요."
+    },
+    {
+      "word_kr": "어머니",
+      "word_en": "mother",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "아버지하고 <b>어머니</b>가 보스턴에 계세요.",
+      "sentence_en": "My father and mother are in Boston.",
+      "audio_query": "아버지하고 어머니가 보스턴에 계세요."
+    },
+    {
+      "word_kr": "오빠",
+      "word_en": "older brother",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>오빠</b>하고 동생도 홍콩에 있어요.",
+      "sentence_en": "My older brother and younger sibling are also in Hong Kong.",
+      "audio_query": "오빠하고 동생도 홍콩에 있어요."
+    },
+    {
+      "word_kr": "동생",
+      "word_en": "younger sibling",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "오빠하고 <b>동생</b>도 홍콩에 있어요.",
+      "sentence_en": "My older brother and younger sibling are also in Hong Kong.",
+      "audio_query": "오빠하고 동생도 홍콩에 있어요."
+    },
+    {
+      "word_kr": "대학생",
+      "word_en": "college student",
+      "nuance": "Polite",
+      "category": "People",
+      "sentence_kr_html": "오빠는 <b>대학생</b>이에요.",
+      "sentence_en": "My older brother is a college student.",
+      "audio_query": "오빠는 대학생이에요."
+    },
+    {
+      "word_kr": "고등학생",
+      "word_en": "high school student",
+      "nuance": "Polite",
+      "category": "People",
+      "sentence_kr_html": "동생은 지금 <b>고등학생</b>이에요.",
+      "sentence_en": "My younger sibling is a high school student now.",
+      "audio_query": "동생은 지금 고등학생이에요."
+    },
+    {
+      "word_kr": "여동생",
+      "word_en": "younger sister",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>여동생</b>이에요.",
+      "sentence_en": "It's a younger sister.",
+      "audio_query": "여동생이에요."
+    },
+    {
+      "word_kr": "남동생",
+      "word_en": "younger brother",
+      "nuance": "Polite",
+      "category": "Family",
+      "sentence_kr_html": "<b>남동생</b>이 두 명 있어요.",
+      "sentence_en": "I have two younger brothers.",
+      "audio_query": "남동생이 두 명 있어요."
+    },
+    {
+      "word_kr": "방",
+      "word_en": "room",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "아파트에 <b>방</b>이 몇 개 있어요?",
+      "sentence_en": "How many rooms are there in your apartment?",
+      "audio_query": "아파트에 방이 몇 개 있어요?"
+    },
+    {
+      "word_kr": "몇 개",
+      "word_en": "how many (count)",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "아파트에 방이 <b>몇 개</b> 있어요?",
+      "sentence_en": "How many rooms are there in your apartment?",
+      "audio_query": "아파트에 방이 몇 개 있어요?"
+    },
+    {
+      "word_kr": "룸메이트",
+      "word_en": "roommate",
+      "nuance": "Polite",
+      "category": "People",
+      "sentence_kr_html": "<b>룸메이트</b> 있어요?",
+      "sentence_en": "Do you have any roommates?",
+      "audio_query": "룸메이트 있어요?"
+    },
+    {
+      "word_kr": "사이",
+      "word_en": "relationship",
+      "nuance": "Polite",
+      "category": "Relationships",
+      "sentence_kr_html": "룸메이트들하고 <b>사이</b>가 좋아요?",
+      "sentence_en": "Is your relationship with your roommates good?",
+      "audio_query": "룸메이트들하고 사이가 좋아요?"
+    },
+    {
+      "word_kr": "누구",
+      "word_en": "who",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "이건 <b>누구</b> 방이에요?",
+      "sentence_en": "Whose room is this?",
+      "audio_query": "이건 누구 방이에요?"
+    },
+    {
+      "word_kr": "제",
+      "word_en": "my (humble)",
+      "nuance": "Polite",
+      "category": "Pronouns",
+      "sentence_kr_html": "<b>제</b> 방이에요.",
+      "sentence_en": "It's my room.",
+      "audio_query": "제 방이에요."
+    },
+    {
+      "word_kr": "참",
+      "word_en": "really/truly",
+      "nuance": "Polite",
+      "category": "Adverbs",
+      "sentence_kr_html": "방이 <b>참</b> 예뻐요.",
+      "sentence_en": "Your room is really pretty.",
+      "audio_query": "방이 참 예뻐요."
+    },
+    {
+      "word_kr": "예뻐요",
+      "word_en": "to be pretty",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "방이 참 <b>예뻐요</b>.",
+      "sentence_en": "Your room is really pretty.",
+      "audio_query": "방이 참 예뻐요."
+    },
+    {
+      "word_kr": "고마워요",
+      "word_en": "thank you",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "<b>고마워요</b>.",
+      "sentence_en": "Thank you.",
+      "audio_query": "고마워요."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Honorific Existence 계세요",
+      "sentence_cloze": "부모님은 홍콩{{c1::에 계세요}}.",
+      "sentence_en": "Your parents are in Hong Kong.",
+      "usage_note": "계세요 is honorific form of 있어요, used for respected people."
+    },
+    {
+      "grammar_point": "Honorific Existence 계세요",
+      "sentence_cloze": "선생님{{c1::도 좋으세요}}.",
+      "sentence_en": "The teacher is also nice.",
+      "usage_note": "세요 ending shows respect. 계세요 for existence, 좋으세요 for qualities."
+    },
+    {
+      "grammar_point": "Numbers with Counters",
+      "sentence_cloze": "방이 세 개{{c1:: 있어요}}.",
+      "sentence_en": "There are three rooms.",
+      "usage_note": "개 counter used for general items. 몇 개 asks 'how many?'"
+    },
+    {
+      "grammar_point": "Numbers with Counters",
+      "sentence_cloze": "남동생이 두 명{{c1:: 있어요}}.",
+      "sentence_en": "I have two younger brothers.",
+      "usage_note": "명/사람 for people. Other counters for specific objects."
+    },
+    {
+      "grammar_point": "Possessive Relations",
+      "sentence_cloze": "마이클{{c1:: 책}}",
+      "sentence_en": "Michael's book",
+      "usage_note": "Possessor + possessed. Particle 의 often omitted in speech."
+    },
+    {
+      "grammar_point": "Possessive Relations",
+      "sentence_cloze": "제 동생{{c1:: 거예요}}.",
+      "sentence_en": "It's my sibling's.",
+      "usage_note": "거 is contraction of 것 (thing). Used to avoid repetition."
+    },
+    {
+      "grammar_point": "Vowel Contractions",
+      "sentence_cloze": "가{{c1::요}}",
+      "sentence_en": "goes",
+      "usage_note": "가 + 아요 contracts to 가요. Common in polite endings."
+    },
+    {
+      "grammar_point": "Vowel Contractions",
+      "sentence_cloze": "마시{{c1::어요}} -> 마셔요",
+      "sentence_en": "drinks",
+      "usage_note": "Vowel contractions: ㅣ + ㅓ -> ㅕ, ㅜ + ㅓ -> ㅝ, etc."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "집이 어디예요?",
+      "sentence_en": "Where is your home?"
+    },
+    {
+      "sentence_kr": "보스턴이에요.",
+      "sentence_en": "It's in Boston."
+    },
+    {
+      "sentence_kr": "아버지하고 어머니가 보스턴에 계세요.",
+      "sentence_en": "My father and mother are in Boston."
+    },
+    {
+      "sentence_kr": "소피아 씨 부모님은 어디 계세요?",
+      "sentence_en": "Sophia, where are your parents?"
+    },
+    {
+      "sentence_kr": "홍콩에 계세요.",
+      "sentence_en": "They are in Hong Kong."
+    },
+    {
+      "sentence_kr": "오빠하고 동생도 홍콩에 있어요.",
+      "sentence_en": "My siblings are also in Hong Kong."
+    },
+    {
+      "sentence_kr": "오빠하고 동생도 대학생이에요?",
+      "sentence_en": "Are your older brother and younger sibling also college students?"
+    },
+    {
+      "sentence_kr": "아니요, 오빠는 대학원생이에요.",
+      "sentence_en": "No, my older brother is a graduate student."
+    },
+    {
+      "sentence_kr": "그리고 동생은 지금 고등학생이에요.",
+      "sentence_en": "And my younger sibling is a high school student now."
+    },
+    {
+      "sentence_kr": "남동생이에요, 여동생이에요?",
+      "sentence_en": "Is that a brother or sister?"
+    },
+    {
+      "sentence_kr": "여동생이에요.",
+      "sentence_en": "It's a younger sister."
+    },
+    {
+      "sentence_kr": "스티브 씨도 동생 있어요?",
+      "sentence_en": "Do you have any younger siblings?"
+    },
+    {
+      "sentence_kr": "네, 남동생이 두 명 있어요.",
+      "sentence_en": "Yes, I have two younger brothers."
+    },
+    {
+      "sentence_kr": "룸메이트 있어요?",
+      "sentence_en": "Do you have any roommates?"
+    },
+    {
+      "sentence_kr": "네, 두 명 있어요.",
+      "sentence_en": "Yes, I have two."
+    },
+    {
+      "sentence_kr": "룸메이트도 학생이에요?",
+      "sentence_en": "Are your roommates also students?"
+    },
+    {
+      "sentence_kr": "네.",
+      "sentence_en": "Yes."
+    },
+    {
+      "sentence_kr": "룸메이트들하고 사이가 좋아요?",
+      "sentence_en": "Is your relationship with your roommates good?"
+    },
+    {
+      "sentence_kr": "네, 사이가 아주 좋아요.",
+      "sentence_en": "Yes, our relationship is very good."
+    },
+    {
+      "sentence_kr": "이건 누구 방이에요?",
+      "sentence_en": "Whose room is this?"
+    },
+    {
+      "sentence_kr": "제 방이에요.",
+      "sentence_en": "It's my room."
+    },
+    {
+      "sentence_kr": "방이 참 예뻐요.",
+      "sentence_en": "Your room is really pretty."
+    },
+    {
+      "sentence_kr": "고마워요.",
+      "sentence_en": "Thank you."
+    }
+  ]
+}

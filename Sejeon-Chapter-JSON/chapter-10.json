@@ -1,0 +1,149 @@
+{
+  "chapter_info": {
+    "number": 10,
+    "title_kr": "같이 점심을 먹을까요?",
+    "title_en": "Shall we have lunch together?",
+    "tags": ["Suggestions", "Time"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "시",
+      "word_en": "hour / o'clock",
+      "nuance": "None",
+      "category": "Time",
+      "sentence_kr_html": "다섯 <b>시</b>",
+      "sentence_en": "Five o'clock.",
+      "audio_query": "다섯 시"
+    },
+    {
+      "word_kr": "분",
+      "word_en": "minute",
+      "nuance": "None",
+      "category": "Time",
+      "sentence_kr_html": "다섯 시 삼십 <b>분</b>",
+      "sentence_en": "Five thirty.",
+      "audio_query": "다섯 시 삼십 분"
+    },
+    {
+      "word_kr": "몇",
+      "word_en": "what / how many",
+      "nuance": "Polite",
+      "category": "Question Word",
+      "sentence_kr_html": "지금 <b>몇</b> 시예요?",
+      "sentence_en": "What time is it now?",
+      "audio_query": "지금 몇 시예요?"
+    },
+    {
+      "word_kr": "아침",
+      "word_en": "morning",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>아침</b>에 학교에 가요.",
+      "sentence_en": "I go to school in the morning.",
+      "audio_query": "아침에 학교에 가요."
+    },
+    {
+      "word_kr": "점심",
+      "word_en": "lunch",
+      "nuance": "Polite",
+      "category": "Time/Meal",
+      "sentence_kr_html": "<b>점심</b>에 식당에서 밥을 먹어요.",
+      "sentence_en": "I eat lunch at a restaurant.",
+      "audio_query": "점심에 식당에서 밥을 먹어요."
+    },
+    {
+      "word_kr": "저녁",
+      "word_en": "evening",
+      "nuance": "Polite",
+      "category": "Time/Meal",
+      "sentence_kr_html": "<b>저녁</b>에 집에서 쉬어요.",
+      "sentence_en": "I rest at home in the evening.",
+      "audio_query": "저녁에 집에서 쉬어요."
+    },
+    {
+      "word_kr": "시간이 있다",
+      "word_en": "to have time",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "이번 주말에 <b>시간이 있어요</b>?",
+      "sentence_en": "Do you have time this weekend?",
+      "audio_query": "이번 주말에 시간이 있어요?"
+    },
+    {
+      "word_kr": "한가하다",
+      "word_en": "to be free / not busy",
+      "nuance": "Polite",
+      "category": "Adjective",
+      "sentence_kr_html": "네. 이번 주말에 <b>한가해요</b>.",
+      "sentence_en": "Yes. I'm free this weekend.",
+      "audio_query": "네. 이번 주말에 한가해요."
+    },
+    {
+      "word_kr": "시간이 없다",
+      "word_en": "to have no time",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "미안해요. 오후에 <b>시간이 없어요</b>.",
+      "sentence_en": "I'm sorry. I have no time this afternoon.",
+      "audio_query": "미안해요. 오후에 시간이 없어요."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Verb + -을까요/ㄹ까요",
+      "sentence_cloze": "한국 음식을 먹{{c1::을까요}}?",
+      "sentence_en": "Shall we eat Korean food?",
+      "usage_note": "Used to ask for the other person's opinion on doing an action (Shall we...?). Added to verbs ending in a consonant."
+    },
+    {
+      "grammar_point": "Verb + -읍시다/ㅂ시다",
+      "sentence_cloze": "비빔밥을 먹{{c1::읍시다}}.",
+      "sentence_en": "Let's eat bibimbap.",
+      "usage_note": "Used to suggest doing an action together (Let's...). Added to verbs ending in a consonant."
+    },
+    {
+      "grammar_point": "Verb/Adjective + -고",
+      "sentence_cloze": "저는 밥을 먹{{c1::고}} 동생은 우유를 마셔요.",
+      "sentence_en": "I eat rice, and my younger sibling drinks milk.",
+      "usage_note": "Attached after a verb or adjective to list actions or states (and)."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "지훈 씨, 안녕하세요? 저 나타샤예요.",
+      "sentence_en": "Hello, Jihun? It's Natasha."
+    },
+    {
+      "sentence_kr": "나타샤 씨, 반가워요. 방학 잘 보냈어요?",
+      "sentence_en": "Natasha, nice to meet you. Did you have a good vacation?"
+    },
+    {
+      "sentence_kr": "저는 고향에 잘 다녀왔어요.",
+      "sentence_en": "I had a good trip to my hometown."
+    },
+    {
+      "sentence_kr": "가족을 만나고 친구들과 여행도 갔어요.",
+      "sentence_en": "I met my family and went on a trip with friends."
+    },
+    {
+      "sentence_kr": "러시아에서 지훈 씨 선물을 샀어요.",
+      "sentence_en": "I bought a gift for you in Russia, Jihun."
+    },
+    {
+      "sentence_kr": "우리 주말에 만날까요?",
+      "sentence_en": "Shall we meet this weekend?"
+    },
+    {
+      "sentence_kr": "그런데 내일은 아르바이트도 있고 오후에 친구도 만나요. 그래서 못 만나요.",
+      "sentence_en": "By the way, tomorrow I have a part-time job and I'm meeting a friend in the afternoon, so I can't meet."
+    },
+    {
+      "sentence_kr": "우리 모레 만날까요?",
+      "sentence_en": "Shall we meet the day after tomorrow?"
+    },
+    {
+      "sentence_kr": "일요일에 러시아 여행 이야기도 많이 합시다.",
+      "sentence_en": "Let's talk a lot about the Russia trip on Sunday."
+    }
+  ]
+}

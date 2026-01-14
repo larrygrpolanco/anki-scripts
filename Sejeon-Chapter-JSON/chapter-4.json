@@ -1,0 +1,260 @@
+{
+  "chapter_info": {
+    "number": 4,
+    "title_kr": "여기가 지훈 씨의 학교입니까?",
+    "title_en": "Is this Jihoon's school?",
+    "tags": ["School", "Places", "Possessives"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "공부하다",
+      "word_en": "to study",
+      "nuance": "Formal",
+      "category": "Verbs",
+      "sentence_kr_html": "한국어를 <b>공부합니다</b>.",
+      "sentence_en": "I study Korean.",
+      "audio_query": "한국어를 공부합니다."
+    },
+    {
+      "word_kr": "만나다",
+      "word_en": "to meet",
+      "nuance": "Formal",
+      "category": "Verbs",
+      "sentence_kr_html": "리사 씨를 <b>만납니다</b>.",
+      "sentence_en": "I am meeting Lisa.",
+      "audio_query": "리사 씨를 만납니다."
+    },
+    {
+      "word_kr": "학교",
+      "word_en": "school",
+      "nuance": "Formal",
+      "category": "Places",
+      "sentence_kr_html": "<b>학교</b>입니다.",
+      "sentence_en": "This is a school.",
+      "audio_query": "학교입니다."
+    },
+    {
+      "word_kr": "교실",
+      "word_en": "classroom",
+      "nuance": "Formal",
+      "category": "Places",
+      "sentence_kr_html": "<b>교실</b>입니다.",
+      "sentence_en": "This is a classroom.",
+      "audio_query": "교실입니다."
+    },
+    {
+      "word_kr": "도서관",
+      "word_en": "library",
+      "nuance": "Formal",
+      "category": "Places",
+      "sentence_kr_html": "<b>도서관</b>입니다.",
+      "sentence_en": "This is a library.",
+      "audio_query": "도서관입니다."
+    },
+    {
+      "word_kr": "건물",
+      "word_en": "building",
+      "nuance": "Formal",
+      "category": "Places",
+      "sentence_kr_html": "학교, 식당, 도서관은 <b>건물</b>입니다.",
+      "sentence_en": "Schools, restaurants, and libraries are buildings.",
+      "audio_query": "학교, 식당, 도서관은 건물입니다."
+    },
+    {
+      "word_kr": "식당",
+      "word_en": "restaurant / cafeteria",
+      "nuance": "Formal",
+      "category": "Places",
+      "sentence_kr_html": "<b>식당</b>입니다.",
+      "sentence_en": "This is a restaurant.",
+      "audio_query": "식당입니다."
+    },
+    {
+      "word_kr": "있다",
+      "word_en": "to be (existence) / to have",
+      "nuance": "Formal",
+      "category": "Adjectives/Verbs",
+      "sentence_kr_html": "학생이 <b>있습니다</b>.",
+      "sentence_en": "There is a student.",
+      "audio_query": "학생이 있습니다."
+    },
+    {
+      "word_kr": "없다",
+      "word_en": "to not be (existence) / to not have",
+      "nuance": "Formal",
+      "category": "Adjectives/Verbs",
+      "sentence_kr_html": "학생이 <b>없습니다</b>.",
+      "sentence_en": "There are no students.",
+      "audio_query": "학생이 없습니다."
+    },
+    {
+      "word_kr": "많다",
+      "word_en": "to be many / a lot of",
+      "nuance": "Formal",
+      "category": "Adjectives",
+      "sentence_kr_html": "학생이 <b>많습니다</b>.",
+      "sentence_en": "There are a lot of students.",
+      "audio_query": "학생이 많습니다."
+    },
+    {
+      "word_kr": "넓다",
+      "word_en": "to be wide / big / spacious",
+      "nuance": "Formal",
+      "category": "Adjectives",
+      "sentence_kr_html": "학교가 <b>넓습니다</b>.",
+      "sentence_en": "The school is wide (big).",
+      "audio_query": "학교가 넓습니다."
+    },
+    {
+      "word_kr": "따라 하다",
+      "word_en": "to follow / repeat after",
+      "nuance": "Polite",
+      "category": "Classroom Expressions",
+      "sentence_kr_html": "여러분, <b>따라 하세요</b>.",
+      "sentence_en": "Everyone, repeat after me.",
+      "audio_query": "여러분, 따라 하세요."
+    },
+    {
+      "word_kr": "질문",
+      "word_en": "question",
+      "nuance": "Polite",
+      "category": "Nouns",
+      "sentence_kr_html": "<b>질문</b>이 있어요.",
+      "sentence_en": "I have a question.",
+      "audio_query": "질문이 있어요."
+    },
+    {
+      "word_kr": "모르다",
+      "word_en": "to not know / to not understand",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "선생님, 잘 <b>모르겠어요</b>.",
+      "sentence_en": "Teacher, I don't know.",
+      "audio_query": "선생님, 잘 모르겠어요."
+    },
+    {
+      "word_kr": "책상",
+      "word_en": "desk",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "이것은 제 <b>책상</b>입니다.",
+      "sentence_en": "This is my desk.",
+      "audio_query": "이것은 제 책상입니다."
+    },
+    {
+      "word_kr": "의자",
+      "word_en": "chair",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "책상하고 <b>의자</b>가 많습니다.",
+      "sentence_en": "There are many desks and chairs.",
+      "audio_query": "책상하고 의자가 많습니다."
+    },
+    {
+      "word_kr": "칠판",
+      "word_en": "blackboard",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "<b>칠판</b>이 있습니다.",
+      "sentence_en": "There is a blackboard.",
+      "audio_query": "칠판이 있습니다."
+    },
+    {
+      "word_kr": "시계",
+      "word_en": "clock / watch",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "그리고 <b>시계</b>하고 지도도 있습니다.",
+      "sentence_en": "And there is also a clock and a map.",
+      "audio_query": "그리고 시계하고 지도도 있습니다."
+    },
+    {
+      "word_kr": "지도",
+      "word_en": "map",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "그리고 시계하고 <b>지도</b>도 있습니다.",
+      "sentence_en": "And there is also a clock and a map.",
+      "audio_query": "그리고 시계하고 지도도 있습니다."
+    },
+    {
+      "word_kr": "컴퓨터",
+      "word_en": "computer",
+      "nuance": "Formal",
+      "category": "Objects",
+      "sentence_kr_html": "하지만 <b>컴퓨터</b>는 없습니다.",
+      "sentence_en": "However, there is no computer.",
+      "audio_query": "하지만 컴퓨터는 없습니다."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Noun + 과/와 (and/with)",
+      "sentence_cloze": "지훈 씨는 형{{c1::과}} 누나가 있습니다.",
+      "sentence_en": "Jihoon has an older brother and an older sister.",
+      "usage_note": "Used when listing multiple items or people. '과' follows a consonant ending."
+    },
+    {
+      "grammar_point": "Noun + 과/와 (and/with)",
+      "sentence_cloze": "나타샤 씨{{c1::와}} 리사 씨를 만납니다.",
+      "sentence_en": "I meet Natasha and Lisa.",
+      "usage_note": "Used when listing multiple items or people. '와' follows a vowel ending."
+    },
+    {
+      "grammar_point": "Noun + 하고 (and/with)",
+      "sentence_cloze": "지훈 씨는 형{{c1::하고}} 누나가 있습니다.",
+      "sentence_en": "Jihoon has an older brother and an older sister.",
+      "usage_note": "Used when listing multiple items or people. Can be used regardless of ending vowel/consonant."
+    },
+    {
+      "grammar_point": "Noun + 의 (Possessive)",
+      "sentence_cloze": "선생님{{c1::의}} 개가 귀엽습니다.",
+      "sentence_en": "The teacher's dog is cute.",
+      "usage_note": "Indicates possession (like 's in English)."
+    },
+    {
+      "grammar_point": "Noun + 의 (Possessive)",
+      "sentence_cloze": "저것은 리사 씨{{c1::의}} 책상입니다.",
+      "sentence_en": "That is Lisa's desk.",
+      "usage_note": "Indicates possession."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "우리 교실입니다.",
+      "sentence_en": "This is our classroom."
+    },
+    {
+      "sentence_kr": "교실이 넓습니다.",
+      "sentence_en": "The classroom is spacious."
+    },
+    {
+      "sentence_kr": "책상하고 의자가 많습니다.",
+      "sentence_en": "There are many desks and chairs."
+    },
+    {
+      "sentence_kr": "칠판이 있습니다.",
+      "sentence_en": "There is a blackboard."
+    },
+    {
+      "sentence_kr": "그리고 시계하고 지도도 있습니다.",
+      "sentence_en": "And there is also a clock and a map."
+    },
+    {
+      "sentence_kr": "하지만 컴퓨터는 없습니다.",
+      "sentence_en": "However, there are no computers."
+    },
+    {
+      "sentence_kr": "이것은 제 책상입니다.",
+      "sentence_en": "This is my desk."
+    },
+    {
+      "sentence_kr": "저것은 리사 씨의 책상입니다.",
+      "sentence_en": "That is Lisa's desk."
+    },
+    {
+      "sentence_kr": "저와 리사 씨는 한국어를 공부합니다.",
+      "sentence_en": "Lisa and I study Korean."
+    }
+  ]
+}

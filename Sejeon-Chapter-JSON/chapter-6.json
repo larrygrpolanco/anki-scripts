@@ -1,0 +1,260 @@
+{
+  "chapter_info": {
+    "number": 6,
+    "title_kr": "친구한테 편지를 써요",
+    "title_en": "I write a letter to my friend",
+    "tags": ["Letters", "Gifts"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "선물",
+      "word_en": "Present / Gift",
+      "nuance": "Polite",
+      "category": "Objects",
+      "sentence_kr_html": "생일 <b>선물</b>이에요.",
+      "sentence_en": "It is a birthday present.",
+      "audio_query": "생일 선물이에요."
+    },
+    {
+      "word_kr": "카드",
+      "word_en": "Card",
+      "nuance": "Polite",
+      "category": "Objects",
+      "sentence_kr_html": "<b>카드</b>를 줘요.",
+      "sentence_en": "I give a card.",
+      "audio_query": "카드를 줘요."
+    },
+    {
+      "word_kr": "편지",
+      "word_en": "Letter",
+      "nuance": "Polite",
+      "category": "Objects",
+      "sentence_kr_html": "<b>편지</b>를 보내요.",
+      "sentence_en": "I send a letter.",
+      "audio_query": "편지를 보내요."
+    },
+    {
+      "word_kr": "주다",
+      "word_en": "To give",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "선물을 <b>줘요</b>.",
+      "sentence_en": "I give a present.",
+      "audio_query": "선물을 줘요."
+    },
+    {
+      "word_kr": "보내다",
+      "word_en": "To send",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "카드를 <b>보내요</b>.",
+      "sentence_en": "I send a card.",
+      "audio_query": "카드를 보내요."
+    },
+    {
+      "word_kr": "쓰다",
+      "word_en": "To write",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "편지를 <b>써요</b>.",
+      "sentence_en": "I write a letter.",
+      "audio_query": "편지를 써요."
+    },
+    {
+      "word_kr": "반갑다",
+      "word_en": "To be glad (to meet)",
+      "nuance": "Formal",
+      "category": "Greetings",
+      "sentence_kr_html": "만나서 <b>반갑습니다</b>.",
+      "sentence_en": "Glad to meet you.",
+      "audio_query": "만나서 반갑습니다."
+    },
+    {
+      "word_kr": "실례하다",
+      "word_en": "Excuse me",
+      "nuance": "Formal",
+      "category": "Greetings",
+      "sentence_kr_html": "<b>실례합니다</b>. 세종학교가 어디에 있어요?",
+      "sentence_en": "Excuse me. Where is Sejong School?",
+      "audio_query": "실례합니다. 세종학교가 어디에 있어요?"
+    },
+    {
+      "word_kr": "고맙다",
+      "word_en": "To be thankful",
+      "nuance": "Polite",
+      "category": "Greetings",
+      "sentence_kr_html": "쯔엉 씨, <b>고마워요</b>.",
+      "sentence_en": "Thank you, Truong.",
+      "audio_query": "쯔엉 씨, 고마워요."
+    },
+    {
+      "word_kr": "감사하다",
+      "word_en": "To be thankful (Honorific)",
+      "nuance": "Formal",
+      "category": "Greetings",
+      "sentence_kr_html": "선생님, <b>감사합니다</b>.",
+      "sentence_en": "Thank you, teacher.",
+      "audio_query": "선생님, 감사합니다."
+    },
+    {
+      "word_kr": "미안하다",
+      "word_en": "To be sorry",
+      "nuance": "Polite",
+      "category": "Greetings",
+      "sentence_kr_html": "지훈 씨, <b>미안해요</b>.",
+      "sentence_en": "I'm sorry, Jihun.",
+      "audio_query": "지훈 씨, 미안해요."
+    },
+    {
+      "word_kr": "죄송하다",
+      "word_en": "To be sorry (Honorific)",
+      "nuance": "Formal",
+      "category": "Greetings",
+      "sentence_kr_html": "선생님, <b>죄송합니다</b>.",
+      "sentence_en": "I'm sorry, teacher.",
+      "audio_query": "선생님, 죄송합니다."
+    },
+    {
+      "word_kr": "괜찮다",
+      "word_en": "To be okay",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "아니에요. <b>괜찮아요</b>.",
+      "sentence_en": "No, it's okay.",
+      "audio_query": "아니에요. 괜찮아요."
+    },
+    {
+      "word_kr": "안녕히 가세요",
+      "word_en": "Goodbye (to person leaving)",
+      "nuance": "Polite",
+      "category": "Greetings",
+      "sentence_kr_html": "가: <b>안녕히 가세요</b>.<br>나: 또 봐요.",
+      "sentence_en": "A: Goodbye. B: See you again.",
+      "audio_query": "안녕히 가세요. 또 봐요."
+    },
+    {
+      "word_kr": "안녕히 계세요",
+      "word_en": "Goodbye (to person staying)",
+      "nuance": "Polite",
+      "category": "Greetings",
+      "sentence_kr_html": "가: <b>안녕히 계세요</b>.<br>나: 안녕히 가세요.",
+      "sentence_en": "A: Goodbye. B: Goodbye.",
+      "audio_query": "안녕히 계세요. 안녕히 가세요."
+    },
+    {
+      "word_kr": "아니에요",
+      "word_en": "Not at all / You're welcome",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "가: 쯔엉 씨, 고마워요.<br>나: <b>아니에요</b>.",
+      "sentence_en": "A: Thank you, Truong. B: Not at all.",
+      "audio_query": "쯔엉 씨, 고마워요. 아니에요."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Noun + 에게 / 한테 (To)",
+      "sentence_cloze": "동생{{c1::에게}} 책을 줘요.",
+      "sentence_en": "I give a book to my younger sibling. (Standard)",
+      "usage_note": "Attached to a noun to indicate the action's target."
+    },
+    {
+      "grammar_point": "Noun + 에게 / 한테 (To)",
+      "sentence_cloze": "동생{{c1::한테}} 책을 줘요.",
+      "sentence_en": "I give a book to my younger sibling. (Colloquial)",
+      "usage_note": "Attached to a noun to indicate the action's target."
+    },
+    {
+      "grammar_point": "Noun + 에게 / 한테 (To)",
+      "sentence_cloze": "가영 씨가 리사 씨{{c1::에게}} 전화를 해요.",
+      "sentence_en": "Gayoung calls Lisa.",
+      "usage_note": "Indicates the receiver of the call."
+    },
+    {
+      "grammar_point": "Noun + 에게 / 한테 (To)",
+      "sentence_cloze": "나타샤 씨는 친구{{c1::한테}} 편지를 써요.",
+      "sentence_en": "Natasha writes a letter to a friend.",
+      "usage_note": "Indicates the receiver of the letter."
+    },
+    {
+      "grammar_point": "Noun + 만 (Only)",
+      "sentence_cloze": "동생{{c1::만}} 학생이에요.",
+      "sentence_en": "Only my younger sibling is a student.",
+      "usage_note": "Attached to a noun to exclude everything else."
+    },
+    {
+      "grammar_point": "Noun + 만 (Only)",
+      "sentence_cloze": "쯔엉 씨는 누나{{c1::만}} 있어요.",
+      "sentence_en": "Truong only has an older sister (no other siblings).",
+      "usage_note": "Excludes other family members."
+    },
+    {
+      "grammar_point": "Noun + 만 (Only)",
+      "sentence_cloze": "나타샤 씨는 친구에게 편지{{c1::만}} 보내요.",
+      "sentence_en": "Natasha only sends a letter (and nothing else).",
+      "usage_note": "Excludes other objects like gifts."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "에바 씨에게",
+      "sentence_en": "To Eva,"
+    },
+    {
+      "sentence_kr": "에바 씨, 생일을 정말 축하해요.",
+      "sentence_en": "Eva, I really congratulate you on your birthday (Happy Birthday)."
+    },
+    {
+      "sentence_kr": "요즘 잘 지내요?",
+      "sentence_en": "How are you doing these days?"
+    },
+    {
+      "sentence_kr": "건강도 괜찮아요?",
+      "sentence_en": "Is your health okay too?"
+    },
+    {
+      "sentence_kr": "저도 한국 생활이 재미있어요.",
+      "sentence_en": "My life in Korea is fun too."
+    },
+    {
+      "sentence_kr": "친구들이 저를 많이 도와줘요.",
+      "sentence_en": "Friends help me a lot."
+    },
+    {
+      "sentence_kr": "그래서 별로 힘들지 않아요.",
+      "sentence_en": "So it's not very hard."
+    },
+    {
+      "sentence_kr": "제가 에바 씨한테 선물을 보내요.",
+      "sentence_en": "I am sending a present to you, Eva."
+    },
+    {
+      "sentence_kr": "한국 사진이에요.",
+      "sentence_en": "It is a photo of Korea."
+    },
+    {
+      "sentence_kr": "이번에는 서울 사진만 있어요.",
+      "sentence_en": "This time, there are only photos of Seoul."
+    },
+    {
+      "sentence_kr": "어때요?",
+      "sentence_en": "How is it?"
+    },
+    {
+      "sentence_kr": "서울이 정말 예뻐요.",
+      "sentence_en": "Seoul is really pretty."
+    },
+    {
+      "sentence_kr": "그럼 우리 또 연락해요.",
+      "sentence_en": "Then let's keep in touch."
+    },
+    {
+      "sentence_kr": "안녕히 계세요.",
+      "sentence_en": "Goodbye."
+    },
+    {
+      "sentence_kr": "리사 드림",
+      "sentence_en": "From Lisa"
+    }
+  ]
+}

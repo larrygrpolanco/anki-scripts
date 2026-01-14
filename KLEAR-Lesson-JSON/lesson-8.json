@@ -1,0 +1,186 @@
+{
+  "chapter_info": {
+    "number": 8,
+    "title_kr": "서울에서",
+    "title_en": "In Seoul",
+    "tags": ["Travel", "Weather", "Places"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "날씨",
+      "word_en": "weather",
+      "nuance": "Polite",
+      "category": "Weather",
+      "sentence_kr_html": "서울 <b>날씨</b>가 참 좋지요?",
+      "sentence_en": "Seoul's weather is quite nice, isn't it?",
+      "audio_query": "서울 날씨가 참 좋지요?"
+    },
+    {
+      "word_kr": "좋지요",
+      "word_en": "isn't it?/right?",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "서울 날씨가 참 <b>좋지요</b>?",
+      "sentence_en": "Seoul's weather is quite nice, isn't it?",
+      "audio_query": "서울 날씨가 참 좋지요?"
+    },
+    {
+      "word_kr": "따뜻해요",
+      "word_en": "to be warm",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "아주 <b>따뜻해요</b>.",
+      "sentence_en": "It's really warm.",
+      "audio_query": "아주 따뜻해요."
+    },
+    {
+      "word_kr": "좋아해요",
+      "word_en": "to like",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "저는 서울의 봄 날씨를 아주 <b>좋아해요</b>.",
+      "sentence_en": "I really like the spring weather in Seoul.",
+      "audio_query": "저는 서울의 봄 날씨를 아주 좋아해요."
+    },
+    {
+      "word_kr": "경복궁",
+      "word_en": "Gyeongbok Palace",
+      "nuance": "Polite",
+      "category": "Places",
+      "sentence_kr_html": "<b>경복궁</b>에 같이 갈까요?",
+      "sentence_en": "Shall we go to Gyeongbok Palace together?",
+      "audio_query": "경복궁에 같이 갈까요?"
+    },
+    {
+      "word_kr": "가봤어요",
+      "word_en": "have been/visited",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "경복궁에 <b>가봤어요</b>?",
+      "sentence_en": "Have you been to Gyeongbok Palace?",
+      "audio_query": "경복궁에 가봤어요?"
+    },
+    {
+      "word_kr": "구경",
+      "word_en": "sightseeing",
+      "nuance": "Polite",
+      "category": "Activities",
+      "sentence_kr_html": "경복궁 <b>구경</b>할 거예요.",
+      "sentence_en": "We're going to do some sightseeing at Gyeongbok Palace.",
+      "audio_query": "경복궁 구경할 거예요."
+    },
+    {
+      "word_kr": "갈까요",
+      "word_en": "shall we go?",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "경복궁에 같이 <b>갈까요</b>?",
+      "sentence_en": "Shall we go to Gyeongbok Palace together?",
+      "audio_query": "경복궁에 같이 갈까요?"
+    },
+    {
+      "word_kr": "괜찮아요",
+      "word_en": "it's okay",
+      "nuance": "Polite",
+      "category": "Expressions",
+      "sentence_kr_html": "일요일에 <b>괜찮아요</b>.",
+      "sentence_en": "Sunday is okay.",
+      "audio_query": "일요일에 괜찮아요."
+    },
+    {
+      "word_kr": "시간 있어요",
+      "word_en": "do you have time",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "이번 일요일에 <b>시간 있어요</b>?",
+      "sentence_en": "Are you free this Sunday?",
+      "audio_query": "이번 일요일에 시간 있어요?"
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Seeking Agreement ~지요?",
+      "sentence_cloze": "오늘 날씨 참 좋{{c1::지요}}?",
+      "sentence_en": "The weather is very nice today, isn't it?",
+      "usage_note": "지요? seeks confirmation/agreement. Like 'right?' or 'isn't it?'."
+    },
+    {
+      "grammar_point": "Seeking Agreement ~지요?",
+      "sentence_cloze": "김 선생님, 내일 시험 없{{c1::지요}}?",
+      "sentence_en": "Professor Kim, we don't have an exam tomorrow, do we?",
+      "usage_note": "지요? seeks confirmation/agreement. Like 'right?' or 'isn't it?'."
+    },
+    {
+      "grammar_point": "Seeking Agreement ~지요?",
+      "sentence_cloze": "학교 기숙사가 조용하{{c1::지요}}?",
+      "sentence_en": "The dorm is quiet, isn't it?",
+      "usage_note": "지요? seeks confirmation/agreement. Like 'right?' or 'isn't it?'."
+    },
+    {
+      "grammar_point": "Demonstratives 이/그/저",
+      "sentence_cloze": "<b>이</b> 지도 어느 서점에서 샀어요?",
+      "sentence_en": "At which bookstore did you buy this map?",
+      "usage_note": "이 = near speaker, 그 = near listener, 저 = far from both."
+    },
+    {
+      "grammar_point": "Demonstratives 이/그/저",
+      "sentence_cloze": "<b>저기</b> 약국 뒤에도 있어요.",
+      "sentence_en": "It's behind the drugstore over there.",
+      "usage_note": "이 = near speaker, 그 = near listener, 저 = far from both."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "마크 씨, 서울 날씨가 참 좋지요?",
+      "sentence_en": "Mark, Seoul's weather is quite nice, isn't it?"
+    },
+    {
+      "sentence_kr": "네, 아주 따뜻해요.",
+      "sentence_en": "Yes, it's really warm."
+    },
+    {
+      "sentence_kr": "저는 서울의 봄 날씨를 아주 좋아해요.",
+      "sentence_en": "I really like the spring weather in Seoul."
+    },
+    {
+      "sentence_kr": "저도 그래요.",
+      "sentence_en": "Me too."
+    },
+    {
+      "sentence_kr": "그런데 마크 씨, 이번 일요일에 시간 있어요?",
+      "sentence_en": "By the way Mark, are you free this Sunday?"
+    },
+    {
+      "sentence_kr": "네, 괜찮아요. 왜요?",
+      "sentence_en": "Yes, it's okay. Why?"
+    },
+    {
+      "sentence_kr": "경복궁에 같이 갈까요?",
+      "sentence_en": "Shall we go to Gyeongbok Palace together?"
+    },
+    {
+      "sentence_kr": "경복궁에 가봤어요?",
+      "sentence_en": "Have you been to Gyeongbok Palace?"
+    },
+    {
+      "sentence_kr": "아니요, 처음이에요.",
+      "sentence_en": "No, it would be my first time."
+    },
+    {
+      "sentence_kr": "경복궁 구경할 거예요.",
+      "sentence_en": "We're going to do some sightseeing at Gyeongbok Palace."
+    },
+    {
+      "sentence_kr": "좋아요. 몇 시쯤 갈까요?",
+      "sentence_en": "Sounds good. Around what time shall we go?"
+    },
+    {
+      "sentence_kr": "오전 9시에 만날까요?",
+      "sentence_en": "Shall we meet at 9 a.m.?"
+    },
+    {
+      "sentence_kr": "네, 그럼 일요일에 봐요.",
+      "sentence_en": "Okay, see you Sunday."
+    }
+  ]
+}

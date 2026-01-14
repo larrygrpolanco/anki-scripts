@@ -1,0 +1,222 @@
+{
+  "chapter_info": {
+    "number": 5,
+    "title_kr": "날씨가 좋지 않아요",
+    "title_en": "The weather's not good",
+    "tags": ["Weather", "Seasons", "Conjugation"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "날씨",
+      "word_en": "weather",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "오늘 <b>날씨</b>가 좋습니다.",
+      "sentence_en": "Today's weather is good.",
+      "audio_query": "오늘 날씨가 좋습니다."
+    },
+    {
+      "word_kr": "맑다",
+      "word_en": "to be clear",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "하늘이 <b>맑습니다</b>.",
+      "sentence_en": "The sky is clear.",
+      "audio_query": "하늘이 맑습니다."
+    },
+    {
+      "word_kr": "흐리다",
+      "word_en": "to be cloudy",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "하늘이 <b>흐립니다</b>.",
+      "sentence_en": "The sky is cloudy.",
+      "audio_query": "하늘이 흐립니다."
+    },
+    {
+      "word_kr": "비",
+      "word_en": "rain",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "<b>비</b>가 옵니다.",
+      "sentence_en": "It's raining.",
+      "audio_query": "비가 옵니다."
+    },
+    {
+      "word_kr": "오다",
+      "word_en": "to come (rain/snow falls)",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "비가 <b>옵니다</b>.",
+      "sentence_en": "It's raining.",
+      "audio_query": "비가 옵니다."
+    },
+    {
+      "word_kr": "눈",
+      "word_en": "snow",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "<b>눈</b>이 옵니다.",
+      "sentence_en": "It's snowing.",
+      "audio_query": "눈이 옵니다."
+    },
+    {
+      "word_kr": "덥다",
+      "word_en": "to be hot",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "날씨가 <b>덥습니다</b>.",
+      "sentence_en": "The weather is hot.",
+      "audio_query": "날씨가 덥습니다."
+    },
+    {
+      "word_kr": "춥다",
+      "word_en": "to be cold",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "날씨가 <b>춥습니다</b>.",
+      "sentence_en": "The weather is cold.",
+      "audio_query": "날씨가 춥습니다."
+    },
+    {
+      "word_kr": "따뜻하다",
+      "word_en": "to be warm",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "날씨가 <b>따뜻합니다</b>.",
+      "sentence_en": "The weather is warm.",
+      "audio_query": "날씨가 따뜻합니다."
+    },
+    {
+      "word_kr": "시원하다",
+      "word_en": "to be cool",
+      "nuance": "Formal",
+      "category": "Weather",
+      "sentence_kr_html": "날씨가 <b>시원합니다</b>.",
+      "sentence_en": "The weather is cool.",
+      "audio_query": "날씨가 시원합니다."
+    },
+    {
+      "word_kr": "봄",
+      "word_en": "spring",
+      "nuance": "Formal",
+      "category": "Season",
+      "sentence_kr_html": "<b>봄</b>입니다. 날씨가 따뜻합니다.",
+      "sentence_en": "It's spring. The weather is warm.",
+      "audio_query": "봄입니다. 날씨가 따뜻합니다."
+    },
+    {
+      "word_kr": "여름",
+      "word_en": "summer",
+      "nuance": "Formal",
+      "category": "Season",
+      "sentence_kr_html": "<b>여름</b>입니다. 날씨가 덥습니다.",
+      "sentence_en": "It's summer. The weather is hot.",
+      "audio_query": "여름입니다. 날씨가 덥습니다."
+    },
+    {
+      "word_kr": "가을",
+      "word_en": "autumn",
+      "nuance": "Formal",
+      "category": "Season",
+      "sentence_kr_html": "<b>가을</b>입니다. 날씨가 시원합니다.",
+      "sentence_en": "It's autumn. The weather is cool.",
+      "audio_query": "가을입니다. 날씨가 시원합니다."
+    },
+    {
+      "word_kr": "겨울",
+      "word_en": "winter",
+      "nuance": "Formal",
+      "category": "Season",
+      "sentence_kr_html": "<b>겨울</b>입니다. 날씨가 춥습니다.",
+      "sentence_en": "It's winter. The weather is cold.",
+      "audio_query": "겨울입니다. 날씨가 춥습니다."
+    },
+    {
+      "word_kr": "어떻다",
+      "word_en": "how is",
+      "nuance": "Formal",
+      "category": "Expressions",
+      "sentence_kr_html": "날씨가 <b>어떻습니까</b>?",
+      "sentence_en": "How is the weather?",
+      "audio_query": "날씨가 어떻습니까?"
+    },
+    {
+      "word_kr": "내리다",
+      "word_en": "to fall (rain/snow)",
+      "nuance": "Formal",
+      "category": "Expressions",
+      "sentence_kr_html": "눈이 <b>내립니다</b>.",
+      "sentence_en": "Snow is falling.",
+      "audio_query": "눈이 내립니다."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "-어요/아요 (Polite Ending)",
+      "sentence_cloze": "날씨가 좋{{c1::아요}}.",
+      "sentence_en": "The weather is good.",
+      "usage_note": "Used in informal polite situations (vowel ends in ㅗ or ㅏ -> 아요)."
+    },
+    {
+      "grammar_point": "-어요/아요 (Polite Ending)",
+      "sentence_cloze": "하늘이 맑{{c1::아요}}.",
+      "sentence_en": "The sky is clear.",
+      "usage_note": "Used in informal polite situations."
+    },
+    {
+      "grammar_point": "-지 않다 (Negation)",
+      "sentence_cloze": "날씨가 좋{{c1::지 않아요}}.",
+      "sentence_en": "The weather is not good.",
+      "usage_note": "Attached to verb/adjective to deny the situation."
+    },
+    {
+      "grammar_point": "-지 않다 (Negation)",
+      "sentence_cloze": "눈이 오{{c1::지 않아요}}.",
+      "sentence_en": "It is not snowing.",
+      "usage_note": "Equivalent to '안' + verb/adjective."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "한국은 봄, 여름, 가을, 겨울이 있어요.",
+      "sentence_en": "Korea has spring, summer, autumn, and winter."
+    },
+    {
+      "sentence_kr": "봄은 바람이 많이 불어요.",
+      "sentence_en": "In spring, the wind blows a lot."
+    },
+    {
+      "sentence_kr": "하지만 따뜻해요.",
+      "sentence_en": "However, it is warm."
+    },
+    {
+      "sentence_kr": "여름은 아주 더워요.",
+      "sentence_en": "Summer is very hot."
+    },
+    {
+      "sentence_kr": "자주 비가 와요.",
+      "sentence_en": "It rains often."
+    },
+    {
+      "sentence_kr": "가을은 날씨가 맑아요.",
+      "sentence_en": "In autumn, the weather is clear."
+    },
+    {
+      "sentence_kr": "춥지 않아요.",
+      "sentence_en": "It is not cold."
+    },
+    {
+      "sentence_kr": "그리고 덥지 않아요.",
+      "sentence_en": "And it is not hot."
+    },
+    {
+      "sentence_kr": "겨울은 추워요.",
+      "sentence_en": "Winter is cold."
+    },
+    {
+      "sentence_kr": "눈도 내려요.",
+      "sentence_en": "Snow falls as well."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "chapter_info": {
+    "number": 2,
+    "title_kr": "한국어 수업",
+    "title_en": "Korean Language Class",
+    "tags": ["Daily Life", "School Activities", "Questions"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "한국어",
+      "word_en": "Korean language",
+      "nuance": "Polite",
+      "category": "Languages",
+      "sentence_kr_html": "<b>한국어</b> 수업이 어때요?",
+      "sentence_en": "How is your Korean class?",
+      "audio_query": "한국어 수업이 어때요?"
+    },
+    {
+      "word_kr": "수업",
+      "word_en": "course, class",
+      "nuance": "Polite",
+      "category": "School",
+      "sentence_kr_html": "한국어 <b>수업</b>이 어때요?",
+      "sentence_en": "How is your Korean class?",
+      "audio_query": "한국어 수업이 어때요?"
+    },
+    {
+      "word_kr": "아주",
+      "word_en": "very",
+      "nuance": "Polite",
+      "category": "Adverbs",
+      "sentence_kr_html": "<b>아주</b> 재미있어요.",
+      "sentence_en": "It's very interesting.",
+      "audio_query": "아주 재미있어요."
+    },
+    {
+      "word_kr": "재미있어요",
+      "word_en": "to be fun/interesting",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "아주 <b>재미있어요</b>.",
+      "sentence_en": "It's very interesting.",
+      "audio_query": "아주 재미있어요."
+    },
+    {
+      "word_kr": "친구",
+      "word_en": "friend",
+      "nuance": "Polite",
+      "category": "People",
+      "sentence_kr_html": "<b>친구</b>들도 좋아요.",
+      "sentence_en": "My classmates are also nice.",
+      "audio_query": "친구들도 좋아요."
+    },
+    {
+      "word_kr": "좋아요",
+      "word_en": "to be good/nice",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "친구들도 <b>좋아요</b>.",
+      "sentence_en": "My classmates are also nice.",
+      "audio_query": "친구들도 좋아요."
+    },
+    {
+      "word_kr": "숙제",
+      "word_en": "homework",
+      "nuance": "Polite",
+      "category": "School",
+      "sentence_kr_html": "<b>숙제</b>가 많아요?",
+      "sentence_en": "Is there a lot of homework?",
+      "audio_query": "숙제가 많아요?"
+    },
+    {
+      "word_kr": "많아요",
+      "word_en": "to be many/much",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "숙제가 <b>많아요</b>?",
+      "sentence_en": "Is there a lot of homework?",
+      "audio_query": "숙제가 많아요?"
+    },
+    {
+      "word_kr": "요즘",
+      "word_en": "these days",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>요즘</b> 어떻게 지내요?",
+      "sentence_en": "How are you doing these days?",
+      "audio_query": "요즘 어떻게 지내요?"
+    },
+    {
+      "word_kr": "어떻게",
+      "word_en": "how",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "요즘 <b>어떻게</b> 지내요?",
+      "sentence_en": "How are you doing these days?",
+      "audio_query": "요즘 어떻게 지내요?"
+    },
+    {
+      "word_kr": "지내요",
+      "word_en": "to get along/spend time",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "요즘 어떻게 <b>지내요</b>?",
+      "sentence_en": "How are you doing these days?",
+      "audio_query": "요즘 어떻게 지내요?"
+    },
+    {
+      "word_kr": "잘",
+      "word_en": "well",
+      "nuance": "Polite",
+      "category": "Adverbs",
+      "sentence_kr_html": "<b>잘</b> 지내요.",
+      "sentence_en": "I'm doing well.",
+      "audio_query": "잘 지내요."
+    },
+    {
+      "word_kr": "지금",
+      "word_en": "now",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>지금</b> 뭐 해요?",
+      "sentence_en": "What are you doing now?",
+      "audio_query": "지금 뭐 해요?"
+    },
+    {
+      "word_kr": "뭐",
+      "word_en": "what",
+      "nuance": "Polite",
+      "category": "Question Words",
+      "sentence_kr_html": "지금 <b>뭐</b> 해요?",
+      "sentence_en": "What are you doing now?",
+      "audio_query": "지금 뭐 해요?"
+    },
+    {
+      "word_kr": "공부해요",
+      "word_en": "to study",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "한국어를 <b>공부해요</b>.",
+      "sentence_en": "I study Korean.",
+      "audio_query": "한국어를 공부해요."
+    },
+    {
+      "word_kr": "오늘",
+      "word_en": "today",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>오늘</b> 한국어 시험을 봐요.",
+      "sentence_en": "I take a Korean exam today.",
+      "audio_query": "오늘 한국어 시험을 봐요."
+    },
+    {
+      "word_kr": "시험",
+      "word_en": "test, exam",
+      "nuance": "Polite",
+      "category": "School",
+      "sentence_kr_html": "오늘 한국어 <b>시험</b>을 봐요.",
+      "sentence_en": "I take a Korean exam today.",
+      "audio_query": "오늘 한국어 시험을 봐요."
+    },
+    {
+      "word_kr": "봐요",
+      "word_en": "to see/watch/take (exam)",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "오늘 한국어 시험을 <b>봐요</b>.",
+      "sentence_en": "I take a Korean exam today.",
+      "audio_query": "오늘 한국어 시험을 봐요."
+    },
+    {
+      "word_kr": "내일",
+      "word_en": "tomorrow",
+      "nuance": "Polite",
+      "category": "Time",
+      "sentence_kr_html": "<b>내일</b>은 한국 역사 시험을 봐요.",
+      "sentence_en": "Tomorrow I take a Korean history exam.",
+      "audio_query": "내일은 한국 역사 시험을 봐요."
+    },
+    {
+      "word_kr": "역사",
+      "word_en": "history",
+      "nuance": "Polite",
+      "category": "Subjects",
+      "sentence_kr_html": "내일은 한국 <b>역사</b> 시험을 봐요.",
+      "sentence_en": "Tomorrow I take a Korean history exam.",
+      "audio_query": "내일은 한국 역사 시험을 봐요."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Subject Particle 이/가",
+      "sentence_cloze": "커피{{c1::가}} 맛있어요.",
+      "sentence_en": "The coffee is delicious.",
+      "usage_note": "이 follows consonants, 가 follows vowels. Marks the subject."
+    },
+    {
+      "grammar_point": "Subject Particle 이/가",
+      "sentence_cloze": "한국어 수업{{c1::이}} 재미있어요.",
+      "sentence_en": "Korean class is fun.",
+      "usage_note": "이 follows consonants, 가 follows vowels. Marks the subject."
+    },
+    {
+      "grammar_point": "Polite Ending ~어요/아요 (Regular)",
+      "sentence_cloze": "숙제{{c1::가 많아요}}.",
+      "sentence_en": "There is a lot of homework.",
+      "usage_note": "~아요 after 오/아, ~어요 otherwise. Most common polite form."
+    },
+    {
+      "grammar_point": "Polite Ending ~어요/아요 (Regular)",
+      "sentence_cloze": "커피{{c1::가 맛있어요}}.",
+      "sentence_en": "The coffee is delicious.",
+      "usage_note": "~아요 after 오/아, ~어요 otherwise. Most common polite form."
+    },
+    {
+      "grammar_point": "Polite Ending ~어요/아요 (Irregular)",
+      "sentence_cloze": "한국어{{c1::를 공부해요}}.",
+      "sentence_en": "I study Korean.",
+      "usage_note": "하다 verbs become 해요. Vowel contractions and 으 deletion."
+    },
+    {
+      "grammar_point": "Polite Ending ~어요/아요 (Irregular)",
+      "sentence_cloze": "학교{{c1::가 커요}}.",
+      "sentence_en": "The school is big.",
+      "usage_note": "하다 verbs become 해요. Vowel contractions and 으 deletion."
+    },
+    {
+      "grammar_point": "Object Particle 을/를",
+      "sentence_cloze": "리사{{c1::가}} 아침{{c1::을}} 먹어요.",
+      "sentence_en": "Lisa eats breakfast.",
+      "usage_note": "을 follows consonants, 를 follows vowels. Marks the object."
+    },
+    {
+      "grammar_point": "Object Particle 을/를",
+      "sentence_cloze": "유미{{c1::가}} 텔레비전{{c1::을}} 봐요.",
+      "sentence_en": "Yumi watches television.",
+      "usage_note": "을 follows consonants, 를 follows vowels. Marks the object."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "안녕하세요, 스티브 씨?",
+      "sentence_en": "Hi, Steve."
+    },
+    {
+      "sentence_kr": "어, 리사 씨. 안녕하세요?",
+      "sentence_en": "Oh, Lisa. How are you?"
+    },
+    {
+      "sentence_kr": "한국어 수업이 어때요?",
+      "sentence_en": "How is your Korean class?"
+    },
+    {
+      "sentence_kr": "아주 재미있어요. 친구들도 좋아요.",
+      "sentence_en": "It's very interesting and my classmates are also nice."
+    },
+    {
+      "sentence_kr": "숙제가 많아요?",
+      "sentence_en": "Is there a lot of homework?"
+    },
+    {
+      "sentence_kr": "네, 많아요.",
+      "sentence_en": "Yes, there is a lot."
+    },
+    {
+      "sentence_kr": "요즘 어떻게 지내요?",
+      "sentence_en": "Hi, Sophia. How are you doing these days?"
+    },
+    {
+      "sentence_kr": "잘 지내요. 소피아 씨는 어떻게 지내요?",
+      "sentence_en": "I'm doing well. How are you, Sophia?"
+    },
+    {
+      "sentence_kr": "저도 잘 지내요.",
+      "sentence_en": "I'm also doing well."
+    },
+    {
+      "sentence_kr": "지금 뭐 해요?",
+      "sentence_en": "What are you doing now?"
+    },
+    {
+      "sentence_kr": "한국어를 공부해요.",
+      "sentence_en": "I'm studying Korean."
+    },
+    {
+      "sentence_kr": "오늘 한국어 시험을 봐요. 그리고 내일은 한국 역사 시험을 봐요.",
+      "sentence_en": "I take a Korean exam today, and tomorrow I take a Korean history exam."
+    },
+    {
+      "sentence_kr": "아, 그래요?",
+      "sentence_en": "Oh, really?"
+    },
+    {
+      "sentence_kr": "네.",
+      "sentence_en": "Yes."
+    }
+  ]
+}

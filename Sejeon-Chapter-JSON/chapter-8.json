@@ -1,0 +1,189 @@
+{
+  "chapter_info": {
+    "number": 8,
+    "title_kr": "토요일에 친구를 만났어요",
+    "title_en": "I met a friend on Saturday",
+    "tags": ["Past Tense", "Dates", "Time"]
+  },
+  "vocabulary": [
+    {
+      "word_kr": "만나다",
+      "word_en": "to meet",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "토요일에 친구를 <b>만났어요</b>.",
+      "sentence_en": "I met a friend on Saturday.",
+      "audio_query": "토요일에 친구를 만났어요."
+    },
+    {
+      "word_kr": "언제",
+      "word_en": "when",
+      "nuance": "Polite",
+      "category": "Interrogatives",
+      "sentence_kr_html": "생일이 <b>언제</b>예요?",
+      "sentence_en": "When is your birthday?",
+      "audio_query": "생일이 언제예요?"
+    },
+    {
+      "word_kr": "주말",
+      "word_en": "weekend",
+      "nuance": "Polite",
+      "category": "Nouns (Time)",
+      "sentence_kr_html": "<b>주말</b>은 학교에 안 가요.",
+      "sentence_en": "I don't go to school on weekends.",
+      "audio_query": "주말은 학교에 안 가요."
+    },
+    {
+      "word_kr": "오전",
+      "word_en": "a.m. / morning",
+      "nuance": "Polite",
+      "category": "Nouns (Time)",
+      "sentence_kr_html": "<b>오전</b> 11시예요.",
+      "sentence_en": "It is 11:00 a.m.",
+      "audio_query": "오전 11시예요."
+    },
+    {
+      "word_kr": "오후",
+      "word_en": "p.m. / afternoon",
+      "nuance": "Polite",
+      "category": "Nouns (Time)",
+      "sentence_kr_html": "<b>오후</b> 5시예요.",
+      "sentence_en": "It is 5:00 p.m.",
+      "audio_query": "오후 5시예요."
+    },
+    {
+      "word_kr": "며칠",
+      "word_en": "what date / how many days",
+      "nuance": "Polite",
+      "category": "Interrogatives",
+      "sentence_kr_html": "오늘이 <b>며칠</b>이에요?",
+      "sentence_en": "What date is it today?",
+      "audio_query": "오늘이 며칠이에요?"
+    },
+    {
+      "word_kr": "무슨 요일",
+      "word_en": "what day of the week",
+      "nuance": "Polite",
+      "category": "Interrogatives",
+      "sentence_kr_html": "오늘이 <b>무슨 요일</b>이에요?",
+      "sentence_en": "What day of the week is it today?",
+      "audio_query": "오늘이 무슨 요일이에요?"
+    },
+    {
+      "word_kr": "좋다",
+      "word_en": "to be good",
+      "nuance": "Polite",
+      "category": "Adjectives",
+      "sentence_kr_html": "날씨가 <b>좋았어요</b>.",
+      "sentence_en": "The weather was good.",
+      "audio_query": "날씨가 좋았어요."
+    },
+    {
+      "word_kr": "먹다",
+      "word_en": "to eat",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "빵을 <b>먹었어요</b>.",
+      "sentence_en": "I ate bread.",
+      "audio_query": "빵을 먹었어요."
+    },
+    {
+      "word_kr": "쓰다",
+      "word_en": "to write",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "친구한테 편지를 <b>썼어요</b>.",
+      "sentence_en": "I wrote a letter to a friend.",
+      "audio_query": "친구한테 편지를 썼어요."
+    },
+    {
+      "word_kr": "전화하다",
+      "word_en": "to make a phone call",
+      "nuance": "Polite",
+      "category": "Verbs",
+      "sentence_kr_html": "가족에게 <b>전화했어요</b>.",
+      "sentence_en": "I called my family.",
+      "audio_query": "가족에게 전화했어요."
+    }
+  ],
+  "grammar_clozes": [
+    {
+      "grammar_point": "Past Tense -었/았-",
+      "sentence_cloze": "날씨가 좋{{c1::았}}어요.",
+      "sentence_en": "The weather was good.",
+      "usage_note": "Used when the verb stem ends in ㅗ or ㅏ."
+    },
+    {
+      "grammar_point": "Past Tense -었/았-",
+      "sentence_cloze": "빵을 먹{{c1::었}}어요.",
+      "sentence_en": "I ate bread.",
+      "usage_note": "Used when the verb stem does not end in ㅗ or ㅏ."
+    },
+    {
+      "grammar_point": "Past Tense -었/았-",
+      "sentence_cloze": "가족에게 전화{{c1::했}}어요.",
+      "sentence_en": "I called my family.",
+      "usage_note": "Verbs ending in 하다 change to 했다 (했)."
+    },
+    {
+      "grammar_point": "Time Particle -에",
+      "sentence_cloze": "가영 씨가 주말{{c1::에}} 친구를 만났어요.",
+      "sentence_en": "Ga-yeong met a friend on the weekend.",
+      "usage_note": "Attached to time nouns to indicate when an action occurs."
+    },
+    {
+      "grammar_point": "Time Particle -에",
+      "sentence_cloze": "3월 2일{{c1::에}} 가요.",
+      "sentence_en": "I go on March 2nd.",
+      "usage_note": "Attached to specific dates or times."
+    },
+    {
+      "grammar_point": "Time Particle -에",
+      "sentence_cloze": "13일{{c1::에}} 한국 날씨가 어땠어요?",
+      "sentence_en": "How was the weather in Korea on the 13th?",
+      "usage_note": "Attached to the date to ask about the situation at that time."
+    }
+  ],
+  "reading_passage": [
+    {
+      "sentence_kr": "저는 지난주에 정말 많이 바빴습니다.",
+      "sentence_en": "I was really very busy last week."
+    },
+    {
+      "sentence_kr": "5월 12일 월요일에 수업이 많았습니다.",
+      "sentence_en": "There were many classes on Monday, May 12th."
+    },
+    {
+      "sentence_kr": "화요일에 한국 가수의 콘서트에 갔습니다.",
+      "sentence_en": "On Tuesday, I went to a Korean singer's concert."
+    },
+    {
+      "sentence_kr": "수요일에는 반 친구들과 식당에서 한국 음식을 먹었습니다.",
+      "sentence_en": "On Wednesday, I ate Korean food at a restaurant with my classmates."
+    },
+    {
+      "sentence_kr": "그리고 금요일에 한국어 시험이 있었습니다.",
+      "sentence_en": "And there was a Korean exam on Friday."
+    },
+    {
+      "sentence_kr": "그래서 목요일에 도서관에서 공부했습니다.",
+      "sentence_en": "So I studied in the library on Thursday."
+    },
+    {
+      "sentence_kr": "토요일 오전에는 집에서 청소했습니다.",
+      "sentence_en": "On Saturday morning, I cleaned at home."
+    },
+    {
+      "sentence_kr": "오후에 고향 집에 전화했습니다.",
+      "sentence_en": "In the afternoon, I called my home in my hometown."
+    },
+    {
+      "sentence_kr": "일요일에 너무 피곤했습니다.",
+      "sentence_en": "I was very tired on Sunday."
+    },
+    {
+      "sentence_kr": "그래서 늦게 일어났습니다.",
+      "sentence_en": "So I woke up late."
+    }
+  ]
+}
