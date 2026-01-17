@@ -1,0 +1,74 @@
+# Anki Deck Metadata for KLEAR and Sejeon Korean Textbooks
+
+## Integrated Korean - Lesson 1: 인사
+Tags: Introductions, Basic Conversation, Politeness Levels, Korean, Language Learning
+Description: Flashcards for greetings and introductions. Includes vocabulary with audio pronunciation, grammar clozes, and reading passages.
+
+## Integrated Korean - Lesson 2: 한국어 수업
+Tags: Daily Life, School Activities, Questions, Korean, Language Learning
+Description: Flashcards for Korean class and daily life. Learn vocabulary for school activities with audio, grammar exercises, and reading comprehension.
+
+## Integrated Korean - Lesson 3: 대학 캠퍼스
+Tags: Locations, Campus Life, Directions, Korean, Language Learning
+Description: Flashcards for university campus and directions. Includes vocabulary with audio, grammar clozes, and passages on campus life.
+
+## Integrated Korean - Lesson 4: 집
+Tags: Family, Home, Relationships, Korean, Language Learning
+Description: Flashcards for home and family. Features vocabulary with audio, grammar practice, and reading passages about relationships.
+
+## Integrated Korean - Lesson 5: 서점에서
+Tags: Shopping, Daily Activities, Time Expressions, Korean, Language Learning
+Description: Flashcards for shopping and daily activities. Learn time expressions with audio vocab, grammar clozes, and passages.
+
+## Integrated Korean - Lesson 6: 나의 하루
+Tags: Daily Life, Transportation, Time Duration, Korean, Language Learning
+Description: Flashcards for daily routines and transportation. Includes vocabulary with audio, grammar exercises, and readings about time duration.
+
+## Integrated Korean - Lesson 7: 주말
+Tags: Leisure, Plans, Future Actions, Korean, Language Learning
+Description: Flashcards for weekend activities and plans. Features vocabulary with audio, grammar practice, and passages on future actions.
+
+## Integrated Korean - Lesson 8: 서울에서
+Tags: Travel, Weather, Places, Korean, Language Learning
+Description: Flashcards for travel and places in Seoul. Learn weather and locations with audio vocab, grammar clozes, and reading comprehension.
+
+## Sejeon Korean - Chapter 1: 저는 한국 사람이에요
+Tags: Introductions, Nationalities, Occupations, Korean, Language Learning
+Description: Flashcards for introductions and nationalities. Includes vocabulary with audio, grammar clozes, and reading passages on occupations.
+
+## Sejeon Korean - Chapter 2: 회사원이 아니에요
+Tags: Family, Jobs, Particles, Negation, Korean, Language Learning
+Description: Flashcards for family, jobs, and negation. Learn particles with audio vocab, grammar exercises, and reading comprehension.
+
+## Sejeon Korean - Chapter 3: 저도 드라마를 좋아합니다
+Tags: Hobbies, Daily Life, Korean, Language Learning
+Description: Flashcards for hobbies and daily life. Features vocabulary with audio, grammar clozes, and passages on preferences.
+
+## Sejeon Korean - Chapter 4: 여기가 지훈 씨의 학교입니까?
+Tags: School, Places, Possessives, Korean, Language Learning
+Description: Flashcards for school and possessives. Includes vocabulary with audio, grammar practice, and readings about places.
+
+## Sejeon Korean - Chapter 5: 날씨가 좋지 않아요
+Tags: Weather, Seasons, Conjugation, Korean, Language Learning
+Description: Flashcards for weather and seasons. Learn conjugation with audio flashcards, grammar drills, and weather passages.
+
+## Sejeon Korean - Chapter 6: 친구한테 편지를 써요
+Tags: Letters, Gifts, Korean, Language Learning
+Description: Flashcards for letters and gifts. Features vocabulary with audio, grammar exercises, and readings about communication.
+
+## Sejeon Korean - Chapter 7: 지금 어디에 있어요?
+Tags: Locations, Positions, Korean, Language Learning
+Description: Flashcards for locations and positions. Includes vocabulary with audio, grammar practice, and spatial relationship passages.
+
+## Sejeon Korean - Chapter 8: 토요일에 친구를 만났어요
+Tags: Past Tense, Dates, Time, Korean, Language Learning
+Description: Flashcards for past tense and dates. Learn time expressions with audio vocab, grammar clozes, and readings on events.
+
+## Sejeon Korean - Chapter 9: 저는 수영을 못해요
+Tags: Sports, Ability, Korean, Language Learning
+Description: Flashcards for sports and abilities. Features vocabulary with audio, grammar exercises, and passages on capabilities.
+
+## Sejeon Korean - Chapter 10: 같이 점심을 먹을까요?
+Tags: Suggestions, Time, Korean, Language Learning
+Description: Flashcards for suggestions and time. Includes vocabulary with audio, grammar practice, and readings about making plans.</content>
+<parameter name="filePath">/Users/larrygrpolanco/Documents/GitHub/anki-scripts/deck_metadata.txt
